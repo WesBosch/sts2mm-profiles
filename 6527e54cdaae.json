@@ -22,39 +22,6 @@
       "bundle_sha256": "e77940dcfdfa1e7485aec68d2bbbd8d232836c400eb844f4b37267338afd5dbd"
     },
     {
-      "mod_version_id": "28a364d5-b3db-4c00-a2ad-1d2f0adb0821",
-      "name": "Better Card Rewards",
-      "version": "1.1.4",
-      "source": "nexus:slaythespire2/mods/314",
-      "hash": "f7a72a7c7d1fb8a02f31b3cf3933cb2c78e0bb696c4fa1c3aa633c7110817ef2",
-      "files": [
-        "BetterCardRewards\\BetterCardRewards.dll",
-        "BetterCardRewards\\BetterCardRewards.json",
-        "BetterCardRewards\\BetterCardRewards.pck"
-      ],
-      "folder_name": "BetterCardRewards",
-      "mod_id": "BetterCardRewards",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Better_Card_Rewards_v1.1.4_d45d4eca.zip",
-      "bundle_sha256": "d45d4eca8b27851c2a23df1777f0644dfc24f727e2e1fdb00da5e91e5444ccc7"
-    },
-    {
-      "mod_version_id": "2795f4ca-a282-4b61-96c7-ddeef77e006a",
-      "name": "BetterRelicRewards",
-      "version": "v1.0.0",
-      "source": "nexus:slaythespire2/mods/696",
-      "hash": "7e0889339e1f5bd500529a7c30b1b826781b27c98836a72d937b5eb556179826",
-      "files": [
-        "BetterRelicRewards\\BetterRelicRewards.dll",
-        "BetterRelicRewards\\BetterRelicRewards.json"
-      ],
-      "folder_name": "BetterRelicRewards",
-      "mod_id": "BetterRelicRewards",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/BetterRelicRewards_v1.0.0_5c656d94.zip",
-      "bundle_sha256": "5c656d946cd051c5b756ecddd8911c0a4671559daaa16ceab449a9f9e8fd500e"
-    },
-    {
       "mod_version_id": "ee73f13d-8429-42b7-a53f-55a00fbc01b2",
       "name": "BetterSpire2",
       "version": "v1.83.3",
@@ -193,11 +160,7 @@
       "version": "1.0.4",
       "source": "nexus:slaythespire2/mods/1053",
       "hash": "615463979e9e41de7ab0ac655431b02b766afde2a2957a568ee1555e1f6c55da",
-      "files": [
-        "RelicUpgrades\\RelicUpgrades.dll",
-        "RelicUpgrades\\RelicUpgrades.json",
-        "RelicUpgrades\\RelicUpgrades.pck"
-      ],
+      "files": [],
       "folder_name": "RelicUpgrades",
       "mod_id": "RelicUpgrades",
       "enabled": true,
@@ -273,14 +236,7 @@
       "version": "v0.1.10-alpha",
       "source": "nexus:slaythespire2/mods/1340",
       "hash": "45facff5d18b6105691c3f99d7e5e31c6743b591841ac41e3c182b49bb1bae79",
-      "files": [
-        "Spire2Reforged\\Spire2Reforged\\Assets\\Localization\\Strings\\en-US.lang",
-        "Spire2Reforged\\Spire2Reforged\\Assets\\Localization\\Strings\\pt-BR.lang",
-        "Spire2Reforged\\Spire2Reforged\\Assets\\Modes\\Endless\\Balance\\endless.balance",
-        "Spire2Reforged\\Spire2Reforged\\Assets\\UI\\MainMenu\\endless_mode_card.png",
-        "Spire2Reforged\\Spire2Reforged\\mod_manifest.json",
-        "Spire2Reforged\\Spire2Reforged\\Spire2Reforged.dll"
-      ],
+      "files": [],
       "folder_name": "Spire2Reforged",
       "mod_id": "Spire2Reforged",
       "enabled": true,
@@ -310,11 +266,7 @@
       "version": "1.5.1",
       "source": "nexus:slaythespire2/mods/46",
       "hash": "7a1c615a7e9f24390a7248f28a5b0a7f7842db1d933ed436702593d8352e8187",
-      "files": [
-        "Watcher\\Watcher\\Watcher.dll",
-        "Watcher\\Watcher\\Watcher.json",
-        "Watcher\\Watcher\\Watcher.pck"
-      ],
+      "files": [],
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
@@ -341,6 +293,6 @@
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-10T06:20:21.464686100Z",
+  "updated_at": "2026-07-12T05:56:53.088050200Z",
   "public": false
 }
