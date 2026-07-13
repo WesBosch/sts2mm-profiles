@@ -87,23 +87,6 @@
       "bundle_sha256": "1d3729f798f1b3ca639853e611fc2502e60bf7bd9b343e57e6d4c268df34eff4"
     },
     {
-      "mod_version_id": "d9548b5a-2692-4c10-94b5-2fb527ff7650",
-      "name": "Interlude",
-      "version": "0.1",
-      "source": "nexus:slaythespire2/mods/1143",
-      "hash": "01b18b8ea604b9867d19c3a13ee5d61e54e4cab08ae9848c036e687024fbeea2",
-      "files": [
-        "Interlude\\Interlude.dll",
-        "Interlude\\Interlude.json",
-        "Interlude\\Interlude.pck"
-      ],
-      "folder_name": "Interlude",
-      "mod_id": "Interlude",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Interlude_v0.1_bdc236e6.zip",
-      "bundle_sha256": "bdc236e640535cb7414ac86d666c3c2f14260ce9a6c2278ad1b23b4c0fd82faf"
-    },
-    {
       "mod_version_id": "6af5d77d-4d94-4fe0-9311-3303eca27438",
       "name": "LegacySpire",
       "version": "1.1.15",
@@ -119,19 +102,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.1.15_0f5ca936.zip",
       "bundle_sha256": "0f5ca936f6b9c60b09ef5fb830b595aa4f80df621e8ef14d53ec60d42c1caf79"
-    },
-    {
-      "mod_version_id": "2775608b-8691-46ec-9129-1f0cee5038d6",
-      "name": "ModConfig",
-      "version": "0.1.5",
-      "source": "github:xhyrzldf/ModConfig-STS2",
-      "hash": "f2ef0aced7da4d09fdc54e414ae65d31cc41ccb46e6aa2ece0f8051cd4e3758c",
-      "files": [],
-      "folder_name": "ModConfig",
-      "mod_id": "ModConfig",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/ModConfig_v0.1.5_e71bd09b.zip",
-      "bundle_sha256": "e71bd09b2d8b5f1ff1f62b20c9fc173b264d6660b16570abaeaef2c7706107c2"
     },
     {
       "mod_version_id": "67e88cbc-417d-4c0a-ad9c-e0de801e49a7",
@@ -168,35 +138,6 @@
       "bundle_sha256": "cac7a85294c311fea2c6f7e235c86c811c6d91046b04c2a99bc89564827ba8e3"
     },
     {
-      "mod_version_id": "29235283-2e8d-45cd-84fa-5b12ec2e5b93",
-      "name": "RitsuLib",
-      "version": "0.4.56",
-      "source": "nexus:slaythespire2/mods/137",
-      "hash": "ce5365c1d1aae3013b05b782f2bbf8610936c839bfe28097153ff4e99acea2d2",
-      "files": [
-        "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\lib\\0.108.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\mod_manifest.json",
-        "STS2-RitsuLib\\ritsulib-variants.manifest",
-        "STS2-RitsuLib\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\STS2-RitsuLib.Loader.pdb",
-        "STS2-RitsuLib\\viewer\\assets\\index.css",
-        "STS2-RitsuLib\\viewer\\assets\\index.js",
-        "STS2-RitsuLib\\viewer\\index.html"
-      ],
-      "folder_name": "STS2-RitsuLib",
-      "mod_id": "STS2-RitsuLib",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.56_097f4780.zip",
-      "bundle_sha256": "097f4780aa685bdc482668e48eb6f188e30e8206aa600a6d3574f30b456ac33a"
-    },
-    {
       "mod_version_id": "b1dbb225-11b5-4cad-8dc0-0c43c9540e19",
       "name": "SlayWithController",
       "version": "1.4.0",
@@ -211,26 +152,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/SlayWithController_v1.4.0_62bd945f.zip",
       "bundle_sha256": "62bd945fa630f6cf26fc590124688e51976b925d4b1287df70aa5549a518b298"
-    },
-    {
-      "mod_version_id": "479234e2-e368-46e0-b1b5-c0c5577b0a71",
-      "name": "Spire2Reforged",
-      "version": "v0.1.14-alpha",
-      "source": "nexus:slaythespire2/mods/1340",
-      "hash": "3c6a981fb5750f76d9c984c4aa3fa2a72590b941de9bd07b8897d24140785eac",
-      "files": [
-        "Spire2Reforged\\Spire2Reforged\\Assets\\Localization\\Strings\\en-US.lang",
-        "Spire2Reforged\\Spire2Reforged\\Assets\\Localization\\Strings\\pt-BR.lang",
-        "Spire2Reforged\\Spire2Reforged\\Assets\\Modes\\Endless\\Balance\\endless.balance",
-        "Spire2Reforged\\Spire2Reforged\\Assets\\UI\\MainMenu\\endless_mode_card.png",
-        "Spire2Reforged\\Spire2Reforged\\mod_manifest.json",
-        "Spire2Reforged\\Spire2Reforged\\Spire2Reforged.dll"
-      ],
-      "folder_name": "Spire2Reforged",
-      "mod_id": "Spire2Reforged",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Spire2Reforged_v0.1.14-alpha_f4a94a9a.zip",
-      "bundle_sha256": "f4a94a9a068f36bda6cf04d9a3dd372f0531daf8b407df72f9153560842f4bf9"
     },
     {
       "mod_version_id": "40f75c3e-c1dd-47c9-a400-858ad29c91fc",
@@ -267,6 +188,23 @@
       "bundle_sha256": "f4a4ef0e7445749df6253c34bc74fd3ca8095d6bda0d9e0caf7409f7fdce63f6"
     },
     {
+      "mod_version_id": "28a364d5-b3db-4c00-a2ad-1d2f0adb0821",
+      "name": "Better Card Rewards",
+      "version": "1.1.4",
+      "source": "nexus:slaythespire2/mods/314",
+      "hash": "f7a72a7c7d1fb8a02f31b3cf3933cb2c78e0bb696c4fa1c3aa633c7110817ef2",
+      "files": [
+        "BetterCardRewards\\BetterCardRewards.dll",
+        "BetterCardRewards\\BetterCardRewards.json",
+        "BetterCardRewards\\BetterCardRewards.pck"
+      ],
+      "folder_name": "BetterCardRewards",
+      "mod_id": "BetterCardRewards",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Better_Card_Rewards_v1.1.4_d45d4eca.zip",
+      "bundle_sha256": "d45d4eca8b27851c2a23df1777f0644dfc24f727e2e1fdb00da5e91e5444ccc7"
+    },
+    {
       "mod_version_id": "3cc666f1-a971-426a-96be-9a3d6ff2d12b",
       "name": "更多的假遗物",
       "version": "1.0.4",
@@ -285,24 +223,24 @@
       "bundle_sha256": "5c60aed9c6222fbd55e71ad02458de4555efc349bd678aecc675ebc2549adb3e"
     },
     {
-      "mod_version_id": "28a364d5-b3db-4c00-a2ad-1d2f0adb0821",
-      "name": "Better Card Rewards",
-      "version": "1.1.4",
-      "source": "nexus:slaythespire2/mods/314",
-      "hash": "f7a72a7c7d1fb8a02f31b3cf3933cb2c78e0bb696c4fa1c3aa633c7110817ef2",
+      "mod_version_id": "860432b1-5587-439b-a24c-a8d48c82c351",
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": "nexus:slaythespire2/mods/27",
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
       "files": [
-        "BetterCardRewards\\BetterCardRewards.dll",
-        "BetterCardRewards\\BetterCardRewards.json",
-        "BetterCardRewards\\BetterCardRewards.pck"
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
       ],
-      "folder_name": "BetterCardRewards",
-      "mod_id": "BetterCardRewards",
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Better_Card_Rewards_v1.1.4_d45d4eca.zip",
-      "bundle_sha256": "d45d4eca8b27851c2a23df1777f0644dfc24f727e2e1fdb00da5e91e5444ccc7"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_47ca1744.zip",
+      "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-12T06:47:14.883646200Z",
+  "updated_at": "2026-07-13T00:29:17.240442700Z",
   "public": false
 }
