@@ -398,7 +398,7 @@
       "mod_version_id": "4c5f4e0d-0118-44dc-821e-04dd53da698f",
       "name": "Merchant Expansion",
       "version": "0.1.3",
-      "source": null,
+      "source": "nexus:slaythespire2/mods/1182",
       "hash": "d908ed7f3799e620695bbb5b3553179c6759d32c21750428ab1baec6ef0ffdd1",
       "files": [
         "MerchantExpansion\\MerchantExpansion.dll",
