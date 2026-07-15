@@ -53,23 +53,6 @@
       "bundle_sha256": "b5568895445e365d6efee2ebecd10a5018afcb13c33da5ee331e5f8dda7312b4"
     },
     {
-      "mod_version_id": "81920df8-793f-460a-af90-a00e473d82bc",
-      "name": "Card Overhaul",
-      "version": "1.1.5",
-      "source": "nexus:slaythespire2/mods/905",
-      "hash": "756f9c6bfa6bd91f99da3f7c8e37da4e59d5665605f3c8dbfeebcbb32ca8e841",
-      "files": [
-        "CardOverhaul\\CardOverhaul.dll",
-        "CardOverhaul\\CardOverhaul.json",
-        "CardOverhaul\\CardOverhaul.pck"
-      ],
-      "folder_name": "CardOverhaul",
-      "mod_id": "CardOverhaul",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Card_Overhaul_v1.1.5_1d3729f7.zip",
-      "bundle_sha256": "1d3729f798f1b3ca639853e611fc2502e60bf7bd9b343e57e6d4c268df34eff4"
-    },
-    {
       "mod_version_id": "6af5d77d-4d94-4fe0-9311-3303eca27438",
       "name": "LegacySpire",
       "version": "1.1.15",
@@ -205,24 +188,172 @@
       "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
     },
     {
-      "mod_version_id": "66cda33d-3e24-4786-89f0-8acbfa8aaf46",
-      "name": "UnlimitedMultiplayer",
-      "version": "v0.2.0",
-      "source": null,
-      "hash": "f080e0fbe87883ab5f2fa23c1a7ef350cb28734dd7883f72bc6e8f015719fd5e",
+      "mod_version_id": "44a08e7c-d51e-42f9-a15a-a5b93a275121",
+      "name": "Better Mod Menu",
+      "version": "1.1.1",
+      "source": "nexus:slaythespire2/mods/178",
+      "hash": "be7ce424f7174e25140a35700d65aa6c58fcdac8937256d64d99f9c226e70839",
       "files": [
-        "UnlimitedMultiplayer\\UnlimitedMultiplayer.dll",
-        "UnlimitedMultiplayer\\UnlimitedMultiplayer.json",
-        "UnlimitedMultiplayer\\UnlimitedMultiplayer.pck"
+        "BetterModMenu\\BetterModMenu.dll",
+        "BetterModMenu\\BetterModMenu.json"
       ],
-      "folder_name": "UnlimitedMultiplayer",
-      "mod_id": "UnlimitedMultiplayer",
+      "folder_name": "BetterModMenu",
+      "mod_id": "BetterModMenu",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/UnlimitedMultiplayer_v0.2.0_53341521.zip",
-      "bundle_sha256": "533415212c2a49d900a6f46d2c532b32140cbce6d9a588ea94867b678f8dcf34"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v1.1.1_3b2723bd.zip",
+      "bundle_sha256": "3b2723bd5c144a153b7b3fd5bf05574afebe905c25afa7e61f1305cb074f040f"
+    },
+    {
+      "mod_version_id": "dbbd3495-e236-4142-8bdf-479b00292bb9",
+      "name": "Combat Performance Bonus",
+      "version": "0.0.9",
+      "source": "nexus:slaythespire2/mods/373",
+      "hash": "f6e0ae20c3318170fc45422db64501919d496e958c43ae60bd22ca536ea00fef",
+      "files": [
+        "CombatPerformanceBonus\\CombatPerformanceBonus.dll",
+        "CombatPerformanceBonus\\CombatPerformanceBonus.json"
+      ],
+      "folder_name": "CombatPerformanceBonus",
+      "mod_id": "CombatPerformanceBonus",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Combat_Performance_Bonus_v0.0.9_03abddd0.zip",
+      "bundle_sha256": "03abddd0546cc8afd6e4ec851ceffd742bfbdfbf210f39726addf6f9ad3bb7d0"
+    },
+    {
+      "mod_version_id": "08e5ee8d-eab3-486e-a5b4-11ff087f5e00",
+      "name": "FairShare",
+      "version": "v0.107.1.1",
+      "source": "nexus:slaythespire2/mods/1280",
+      "hash": "08761c5afe3e0fb3531dabff8567a4d23365bdad5c1704e34ab42aaf63bbc10f",
+      "files": [
+        "FairShare\\FairShare.dll",
+        "FairShare\\FairShare.json",
+        "FairShare\\FairShare.pck",
+        "FairShare\\icon.png"
+      ],
+      "folder_name": "FairShare",
+      "mod_id": "FairShare",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/FairShare_v0.107.1.1_09726b54.zip",
+      "bundle_sha256": "09726b540d559ff33cd79248df057a04faebcd8d4e025ffa3ac9614f907cee51"
+    },
+    {
+      "mod_version_id": "6a8041e4-67a3-4d9d-80b6-4a371dd00559",
+      "name": "Hermit",
+      "version": "2.0.1",
+      "source": "nexus:slaythespire2/mods/1071",
+      "hash": "878f25865033ccec65d932dae61bf0d871c0ac24a1292e546db1ca388cf38527",
+      "files": [
+        "HermitMod\\HermitMod.dll",
+        "HermitMod\\HermitMod.json",
+        "HermitMod\\HermitMod.pck"
+      ],
+      "folder_name": "HermitMod",
+      "mod_id": "HermitMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Hermit_v2.0.1_37748262.zip",
+      "bundle_sha256": "37748262d7c76d4015d86d503e933294c428697e31303a346fbc4a4d21518391"
+    },
+    {
+      "mod_version_id": "d3227461-812b-441a-b39e-2ec781769e5e",
+      "name": "枪手扩展",
+      "version": "1.1.1",
+      "source": "nexus:slaythespire2/mods/1071",
+      "hash": "de8f0b48f87da9c468d7a43991f126ed84f369027350cb2591555f3d875b0cf9",
+      "files": [
+        "HermitLocalization\\HermitLocalization.dll",
+        "HermitLocalization\\HermitLocalization.json",
+        "HermitLocalization\\HermitLocalization.pck"
+      ],
+      "folder_name": "HermitLocalization",
+      "mod_id": "HermitLocalization",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/_v1.1.1_88a3fc69.zip",
+      "bundle_sha256": "88a3fc6986f2899cc0ec7beed206dfbb173540dea9598afcf4444fa13dc3225b"
+    },
+    {
+      "mod_version_id": "b6a4eb12-ca3e-4957-970b-e13727f78eed",
+      "name": "The Hermit Eng",
+      "version": "0.0.1",
+      "source": "nexus:slaythespire2/mods/1071",
+      "hash": "98dd6ccd644bd1514351a85aa96090dcc441280a264bc60ef6029921651930bf",
+      "files": [
+        "HermitModEng\\HermitModEng.json",
+        "HermitModEng\\HermitModEng.pck"
+      ],
+      "folder_name": "HermitModEng",
+      "mod_id": "HermitModEng",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/The_Hermit_Eng_v0.0.1_7854025d.zip",
+      "bundle_sha256": "7854025d46c6244f885a4c84300f38e744690f7312009ed46df29784421a7cc8"
+    },
+    {
+      "mod_version_id": "f7a473c2-e046-468e-b884-a586e3f75913",
+      "name": "Party Signals - Automatic Card Callouts",
+      "version": "1.0.5",
+      "source": "nexus:slaythespire2/mods/697",
+      "hash": "9a70f75224633a86dbc090777ee07da9df0fd5b65f8fa033091b4b760c8ba608",
+      "files": [
+        "mods\\partysignals\\partysignals.dll",
+        "mods\\partysignals\\partysignals.json",
+        "mods\\partysignals\\translations\\deu.loc",
+        "mods\\partysignals\\translations\\eng.loc",
+        "mods\\partysignals\\translations\\esp.loc",
+        "mods\\partysignals\\translations\\fra.loc",
+        "mods\\partysignals\\translations\\ita.loc",
+        "mods\\partysignals\\translations\\jpn.loc",
+        "mods\\partysignals\\translations\\kor.loc",
+        "mods\\partysignals\\translations\\pol.loc",
+        "mods\\partysignals\\translations\\ptb.loc",
+        "mods\\partysignals\\translations\\rus.loc",
+        "mods\\partysignals\\translations\\spa.loc",
+        "mods\\partysignals\\translations\\tha.loc",
+        "mods\\partysignals\\translations\\tur.loc",
+        "mods\\partysignals\\translations\\zhs.loc"
+      ],
+      "folder_name": "partysignals",
+      "mod_id": "partysignals",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Party_Signals_-_Automatic_Card_Callouts_v1.0.5_0490d21f.zip",
+      "bundle_sha256": "0490d21fae02398c02465a2718267933a62c0c5e4532f8be169767a87caf4339"
+    },
+    {
+      "mod_version_id": "eb4a7c5a-97e6-4a92-88c6-88f3422f9d6f",
+      "name": "Relic Upgrades",
+      "version": "1.0.6",
+      "source": "nexus:slaythespire2/mods/1053",
+      "hash": "3c68d79cff4655a99cbc895225213c0c0294a4c97a25b98d6a07fe19937f1780",
+      "files": [
+        "RelicUpgrades\\RelicUpgrades.dll",
+        "RelicUpgrades\\RelicUpgrades.json",
+        "RelicUpgrades\\RelicUpgrades.pck"
+      ],
+      "folder_name": "RelicUpgrades",
+      "mod_id": "RelicUpgrades",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Relic_Upgrades_v1.0.6_5da62ada.zip",
+      "bundle_sha256": "5da62adad78818292d9d317da51567cc9067fa8542634d61cd91e687372a84b6"
+    },
+    {
+      "mod_version_id": "d52f2bb6-94c9-48ab-b888-c8d96112a5a0",
+      "name": "RemoveMultiplayerPlayerLimit",
+      "version": "0.1.7",
+      "source": "nexus:slaythespire2/mods/21",
+      "hash": "b91ac9b59956d06e864a94c2fd04217eb5d8f4471688ebfe4069148e0f55c1fc",
+      "files": [
+        "RemoveMultiplayerPlayerLimit\\config.ini",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck"
+      ],
+      "folder_name": "RemoveMultiplayerPlayerLimit",
+      "mod_id": "RemoveMultiplayerPlayerLimit",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_cac7a852.zip",
+      "bundle_sha256": "cac7a85294c311fea2c6f7e235c86c811c6d91046b04c2a99bc89564827ba8e3"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-15T04:00:23.591795900Z",
+  "updated_at": "2026-07-15T07:04:32.082160600Z",
   "public": false
 }
