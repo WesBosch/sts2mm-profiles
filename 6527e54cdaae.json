@@ -382,23 +382,6 @@
       "bundle_sha256": "e9b3bd855c53ecbb9b9bde83eca9aff523b8e3012b12a919cbbdb40ec9ffc653"
     },
     {
-      "mod_version_id": "7ecf27a6-7416-4e09-91ea-e937630711af",
-      "name": "marisamod",
-      "version": "0.4.0",
-      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747647777",
-      "hash": "dc92e9e1c692ed0878325b60affdd07b94b46ddad0bda19a1d271787281487be",
-      "files": [
-        "3747647777\\marisamod.dll",
-        "3747647777\\marisamod.json",
-        "3747647777\\marisamod.pck"
-      ],
-      "folder_name": "3747647777",
-      "mod_id": "marisamod",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/marisamod_v0.4.0_7de39830.zip",
-      "bundle_sha256": "7de39830237cded948bd5c25614182fdd593cc957d3821d02936ae29e2f2ec99"
-    },
-    {
       "mod_version_id": "2383753b-8b09-4b8c-ad59-bda7d23a9633",
       "name": "PengoTarot",
       "version": "v1.3.2.beta",
@@ -447,6 +430,6 @@
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-15T09:18:35.615125Z",
+  "updated_at": "2026-07-15T09:20:57.112429400Z",
   "public": false
 }
