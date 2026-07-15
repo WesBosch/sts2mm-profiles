@@ -243,11 +243,7 @@
       "version": "2.0.1",
       "source": "nexus:slaythespire2/mods/1071",
       "hash": "878f25865033ccec65d932dae61bf0d871c0ac24a1292e546db1ca388cf38527",
-      "files": [
-        "HermitMod\\HermitMod.dll",
-        "HermitMod\\HermitMod.json",
-        "HermitMod\\HermitMod.pck"
-      ],
+      "files": [],
       "folder_name": "HermitMod",
       "mod_id": "HermitMod",
       "enabled": true,
@@ -260,11 +256,7 @@
       "version": "1.1.1",
       "source": "nexus:slaythespire2/mods/1071",
       "hash": "de8f0b48f87da9c468d7a43991f126ed84f369027350cb2591555f3d875b0cf9",
-      "files": [
-        "HermitLocalization\\HermitLocalization.dll",
-        "HermitLocalization\\HermitLocalization.json",
-        "HermitLocalization\\HermitLocalization.pck"
-      ],
+      "files": [],
       "folder_name": "HermitLocalization",
       "mod_id": "HermitLocalization",
       "enabled": true,
@@ -277,10 +269,7 @@
       "version": "0.0.1",
       "source": "nexus:slaythespire2/mods/1071",
       "hash": "98dd6ccd644bd1514351a85aa96090dcc441280a264bc60ef6029921651930bf",
-      "files": [
-        "HermitModEng\\HermitModEng.json",
-        "HermitModEng\\HermitModEng.pck"
-      ],
+      "files": [],
       "folder_name": "HermitModEng",
       "mod_id": "HermitModEng",
       "enabled": true,
@@ -437,11 +426,7 @@
       "version": "0.4.0",
       "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747647777",
       "hash": "dc92e9e1c692ed0878325b60affdd07b94b46ddad0bda19a1d271787281487be",
-      "files": [
-        "3747647777\\marisamod.dll",
-        "3747647777\\marisamod.json",
-        "3747647777\\marisamod.pck"
-      ],
+      "files": [],
       "folder_name": "3747647777",
       "mod_id": "marisamod",
       "enabled": true,
