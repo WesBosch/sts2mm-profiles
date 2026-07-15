@@ -238,45 +238,6 @@
       "bundle_sha256": "09726b540d559ff33cd79248df057a04faebcd8d4e025ffa3ac9614f907cee51"
     },
     {
-      "mod_version_id": "6a8041e4-67a3-4d9d-80b6-4a371dd00559",
-      "name": "Hermit",
-      "version": "2.0.1",
-      "source": "nexus:slaythespire2/mods/1071",
-      "hash": "878f25865033ccec65d932dae61bf0d871c0ac24a1292e546db1ca388cf38527",
-      "files": [],
-      "folder_name": "HermitMod",
-      "mod_id": "HermitMod",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Hermit_v2.0.1_37748262.zip",
-      "bundle_sha256": "37748262d7c76d4015d86d503e933294c428697e31303a346fbc4a4d21518391"
-    },
-    {
-      "mod_version_id": "d3227461-812b-441a-b39e-2ec781769e5e",
-      "name": "枪手扩展",
-      "version": "1.1.1",
-      "source": "nexus:slaythespire2/mods/1071",
-      "hash": "de8f0b48f87da9c468d7a43991f126ed84f369027350cb2591555f3d875b0cf9",
-      "files": [],
-      "folder_name": "HermitLocalization",
-      "mod_id": "HermitLocalization",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/_v1.1.1_88a3fc69.zip",
-      "bundle_sha256": "88a3fc6986f2899cc0ec7beed206dfbb173540dea9598afcf4444fa13dc3225b"
-    },
-    {
-      "mod_version_id": "b6a4eb12-ca3e-4957-970b-e13727f78eed",
-      "name": "The Hermit Eng",
-      "version": "0.0.1",
-      "source": "nexus:slaythespire2/mods/1071",
-      "hash": "98dd6ccd644bd1514351a85aa96090dcc441280a264bc60ef6029921651930bf",
-      "files": [],
-      "folder_name": "HermitModEng",
-      "mod_id": "HermitModEng",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/The_Hermit_Eng_v0.0.1_7854025d.zip",
-      "bundle_sha256": "7854025d46c6244f885a4c84300f38e744690f7312009ed46df29784421a7cc8"
-    },
-    {
       "mod_version_id": "f7a473c2-e046-468e-b884-a586e3f75913",
       "name": "Party Signals - Automatic Card Callouts",
       "version": "1.0.5",
@@ -426,7 +387,11 @@
       "version": "0.4.0",
       "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747647777",
       "hash": "dc92e9e1c692ed0878325b60affdd07b94b46ddad0bda19a1d271787281487be",
-      "files": [],
+      "files": [
+        "3747647777\\marisamod.dll",
+        "3747647777\\marisamod.json",
+        "3747647777\\marisamod.pck"
+      ],
       "folder_name": "3747647777",
       "mod_id": "marisamod",
       "enabled": true,
@@ -482,6 +447,6 @@
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-15T08:42:41.489474500Z",
+  "updated_at": "2026-07-15T09:18:35.615125Z",
   "public": false
 }
