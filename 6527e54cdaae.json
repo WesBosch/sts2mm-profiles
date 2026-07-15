@@ -294,28 +294,28 @@
       "source": "nexus:slaythespire2/mods/697",
       "hash": "9a70f75224633a86dbc090777ee07da9df0fd5b65f8fa033091b4b760c8ba608",
       "files": [
-        "mods\\partysignals\\partysignals.dll",
-        "mods\\partysignals\\partysignals.json",
-        "mods\\partysignals\\translations\\deu.loc",
-        "mods\\partysignals\\translations\\eng.loc",
-        "mods\\partysignals\\translations\\esp.loc",
-        "mods\\partysignals\\translations\\fra.loc",
-        "mods\\partysignals\\translations\\ita.loc",
-        "mods\\partysignals\\translations\\jpn.loc",
-        "mods\\partysignals\\translations\\kor.loc",
-        "mods\\partysignals\\translations\\pol.loc",
-        "mods\\partysignals\\translations\\ptb.loc",
-        "mods\\partysignals\\translations\\rus.loc",
-        "mods\\partysignals\\translations\\spa.loc",
-        "mods\\partysignals\\translations\\tha.loc",
-        "mods\\partysignals\\translations\\tur.loc",
-        "mods\\partysignals\\translations\\zhs.loc"
+        "partysignals\\partysignals.dll",
+        "partysignals\\partysignals.json",
+        "partysignals\\translations\\deu.loc",
+        "partysignals\\translations\\eng.loc",
+        "partysignals\\translations\\esp.loc",
+        "partysignals\\translations\\fra.loc",
+        "partysignals\\translations\\ita.loc",
+        "partysignals\\translations\\jpn.loc",
+        "partysignals\\translations\\kor.loc",
+        "partysignals\\translations\\pol.loc",
+        "partysignals\\translations\\ptb.loc",
+        "partysignals\\translations\\rus.loc",
+        "partysignals\\translations\\spa.loc",
+        "partysignals\\translations\\tha.loc",
+        "partysignals\\translations\\tur.loc",
+        "partysignals\\translations\\zhs.loc"
       ],
       "folder_name": "partysignals",
       "mod_id": "partysignals",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Party_Signals_-_Automatic_Card_Callouts_v1.0.5_0490d21f.zip",
-      "bundle_sha256": "0490d21fae02398c02465a2718267933a62c0c5e4532f8be169767a87caf4339"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Party_Signals_-_Automatic_Card_Callouts_v1.0.5_ff33092f.zip",
+      "bundle_sha256": "ff33092f110ad55e7e5928361f14855dee8e70196b55c934a3c5a49b89f20676"
     },
     {
       "mod_version_id": "eb4a7c5a-97e6-4a92-88c6-88f3422f9d6f",
@@ -351,9 +351,152 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_cac7a852.zip",
       "bundle_sha256": "cac7a85294c311fea2c6f7e235c86c811c6d91046b04c2a99bc89564827ba8e3"
+    },
+    {
+      "mod_version_id": "edc6b72b-1964-47bc-9be2-c33bc54fe532",
+      "name": "Acts from the Past",
+      "version": "1.0.2",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3746969593",
+      "hash": "b951f4e524dea205c74b68bda8380bb80853883beac61ba8928e139f2c494f18",
+      "files": [
+        "ActsFromThePast\\ActsFromThePast.dll",
+        "ActsFromThePast\\ActsFromThePast.json",
+        "ActsFromThePast\\ActsFromThePast.pck"
+      ],
+      "folder_name": "ActsFromThePast",
+      "mod_id": "ActsFromThePast",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Acts_from_the_Past_v1.0.2_e966f48c.zip",
+      "bundle_sha256": "e966f48c9d45f1f972508e4885a22395e05bdd1c7551640b068d9eaae47867c6"
+    },
+    {
+      "mod_version_id": "86e0c59d-21d2-42fb-b272-06b0ab8d1c7e",
+      "name": "Act Toggler",
+      "version": "1.0.2",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3737158447",
+      "hash": "c988c4c9054d38c38f745545117f21d2104df2c7761db723f7baac09c63d15b6",
+      "files": [
+        "ActToggler\\ActToggler.dll",
+        "ActToggler\\ActToggler.json",
+        "ActToggler\\ActToggler.pck"
+      ],
+      "folder_name": "ActToggler",
+      "mod_id": "ActToggler",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Act_Toggler_v1.0.2_ad207656.zip",
+      "bundle_sha256": "ad2076561309504dc39bccff71a94c4aa8e612e82ef54a6197b239bdea6e915e"
+    },
+    {
+      "mod_version_id": "2f8d25f5-d2e6-4d0c-939c-76e475947130",
+      "name": "Draw Anywhere",
+      "version": "0.3.0",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3759606563",
+      "hash": "a699905a718c5f3e4501898c323f7a7cc353d516028030c2af1c147ae1986b9c",
+      "files": [
+        "3759606563\\DrawAnywhere.dll",
+        "3759606563\\DrawAnywhere.json",
+        "3759606563\\eye_closed.png",
+        "3759606563\\eye_closed_glow.png",
+        "3759606563\\eye_open.png",
+        "3759606563\\eye_open_glow.png",
+        "3759606563\\locales\\deu.json",
+        "3759606563\\locales\\eng.json",
+        "3759606563\\locales\\fra.json",
+        "3759606563\\locales\\jpn.json",
+        "3759606563\\locales\\kor.json",
+        "3759606563\\locales\\rus.json",
+        "3759606563\\locales\\zhs.json"
+      ],
+      "folder_name": "3759606563",
+      "mod_id": "drawanywhere",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Draw_Anywhere_v0.3.0_435d4591.zip",
+      "bundle_sha256": "435d45911b4220dc21a7f3d24cf7817611c1e2389fa375b1297e46fa70480d64"
+    },
+    {
+      "mod_version_id": "bea1e22d-5679-4951-820b-c24951a16881",
+      "name": "LoadOrderSync",
+      "version": "v1.0.0",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3757945718",
+      "hash": "20b6ef9a9f6aa1c26d6e01887d47d0636af9fc8b5b0000de0ab943eeb397f7e1",
+      "files": [
+        "3757945718\\LoadOrderSync.dll",
+        "3757945718\\LoadOrderSync.json",
+        "3757945718\\LoadOrderSync.pck",
+        "3757945718\\LoadOrderSync.pdb"
+      ],
+      "folder_name": "3757945718",
+      "mod_id": "LoadOrderSync",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/LoadOrderSync_v1.0.0_e9b3bd85.zip",
+      "bundle_sha256": "e9b3bd855c53ecbb9b9bde83eca9aff523b8e3012b12a919cbbdb40ec9ffc653"
+    },
+    {
+      "mod_version_id": "7ecf27a6-7416-4e09-91ea-e937630711af",
+      "name": "marisamod",
+      "version": "0.4.0",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747647777",
+      "hash": "dc92e9e1c692ed0878325b60affdd07b94b46ddad0bda19a1d271787281487be",
+      "files": [
+        "3747647777\\marisamod.dll",
+        "3747647777\\marisamod.json",
+        "3747647777\\marisamod.pck"
+      ],
+      "folder_name": "3747647777",
+      "mod_id": "marisamod",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/marisamod_v0.4.0_7de39830.zip",
+      "bundle_sha256": "7de39830237cded948bd5c25614182fdd593cc957d3821d02936ae29e2f2ec99"
+    },
+    {
+      "mod_version_id": "2383753b-8b09-4b8c-ad59-bda7d23a9633",
+      "name": "PengoTarot",
+      "version": "v1.3.2.beta",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747679239",
+      "hash": "e2a83dc2ff3f7444910a28036dd33d7613849de86e41eeb8836dddb931295518",
+      "files": [
+        "3747679239\\PengoTarot.dll",
+        "3747679239\\PengoTarot.json",
+        "3747679239\\PengoTarot.pck",
+        "3747679239\\README.md"
+      ],
+      "folder_name": "3747679239",
+      "mod_id": "PengoTarot",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/PengoTarot_v1.3.2.beta_efd91a23.zip",
+      "bundle_sha256": "efd91a233079dcae5fb077b64bffbb636a36dd4c1d9f037232752be236045b34"
+    },
+    {
+      "mod_version_id": "627da4ae-b566-4394-a77a-07a291cbb4c9",
+      "name": "RitsuLib",
+      "version": "0.4.57",
+      "source": "nexus:slaythespire2/mods/137",
+      "hash": "2bc8046f84cd905d47952d6962a248ae42f236cdb004128d609ae1eecd51a017",
+      "files": [
+        "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.108.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\ritsulib-variants.manifest",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.Loader.pdb",
+        "STS2-RitsuLib\\viewer\\assets\\index.css",
+        "STS2-RitsuLib\\viewer\\assets\\index.js",
+        "STS2-RitsuLib\\viewer\\index.html"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.57_a9a9b8fa.zip",
+      "bundle_sha256": "a9a9b8fa0e0a5bb21a5096300aad22a9580ca36796b3eca2455fe96990fe455b"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-15T07:04:32.082160600Z",
+  "updated_at": "2026-07-15T08:42:41.489474500Z",
   "public": false
 }
