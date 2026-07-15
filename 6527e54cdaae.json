@@ -53,23 +53,6 @@
       "bundle_sha256": "b5568895445e365d6efee2ebecd10a5018afcb13c33da5ee331e5f8dda7312b4"
     },
     {
-      "mod_version_id": "61eafee5-c86b-4b45-a012-d9598fd35515",
-      "name": "Campfire Trade",
-      "version": "1.1.2",
-      "source": "github:RazanKai/sts2-campfire-trade",
-      "hash": "b8a84d510bb6760503b4ea689cf445637aa9ef012cd434817b31c27c624eb6d3",
-      "files": [
-        "CampfireTrade\\CampfireTrade.dll",
-        "CampfireTrade\\CampfireTrade.json",
-        "CampfireTrade\\CampfireTrade.pck"
-      ],
-      "folder_name": "CampfireTrade",
-      "mod_id": "CampfireTrade",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Campfire_Trade_v1.1.2_f467edbe.zip",
-      "bundle_sha256": "f467edbec4a9ea0fea46915702bf29d5add9dfb8e759f827daabf3f27f7153f7"
-    },
-    {
       "mod_version_id": "81920df8-793f-460a-af90-a00e473d82bc",
       "name": "Card Overhaul",
       "version": "1.1.5",
@@ -118,24 +101,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.8_c55159dd.zip",
       "bundle_sha256": "c55159dd6ebd45d8ad7cec4aa53bb06ae3b54841602a03de1368e1734c808386"
-    },
-    {
-      "mod_version_id": "d52f2bb6-94c9-48ab-b888-c8d96112a5a0",
-      "name": "RemoveMultiplayerPlayerLimit",
-      "version": "0.1.7",
-      "source": "nexus:slaythespire2/mods/21",
-      "hash": "b91ac9b59956d06e864a94c2fd04217eb5d8f4471688ebfe4069148e0f55c1fc",
-      "files": [
-        "RemoveMultiplayerPlayerLimit\\config.ini",
-        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
-        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
-        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck"
-      ],
-      "folder_name": "RemoveMultiplayerPlayerLimit",
-      "mod_id": "RemoveMultiplayerPlayerLimit",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_cac7a852.zip",
-      "bundle_sha256": "cac7a85294c311fea2c6f7e235c86c811c6d91046b04c2a99bc89564827ba8e3"
     },
     {
       "mod_version_id": "b1dbb225-11b5-4cad-8dc0-0c43c9540e19",
@@ -238,9 +203,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_47ca1744.zip",
       "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
+    },
+    {
+      "mod_version_id": "66cda33d-3e24-4786-89f0-8acbfa8aaf46",
+      "name": "UnlimitedMultiplayer",
+      "version": "v0.2.0",
+      "source": null,
+      "hash": "f080e0fbe87883ab5f2fa23c1a7ef350cb28734dd7883f72bc6e8f015719fd5e",
+      "files": [
+        "UnlimitedMultiplayer\\UnlimitedMultiplayer.dll",
+        "UnlimitedMultiplayer\\UnlimitedMultiplayer.json",
+        "UnlimitedMultiplayer\\UnlimitedMultiplayer.pck"
+      ],
+      "folder_name": "UnlimitedMultiplayer",
+      "mod_id": "UnlimitedMultiplayer",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/UnlimitedMultiplayer_v0.2.0_53341521.zip",
+      "bundle_sha256": "533415212c2a49d900a6f46d2c532b32140cbce6d9a588ea94867b678f8dcf34"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-15T03:27:42.699098900Z",
+  "updated_at": "2026-07-15T04:00:23.591795900Z",
   "public": false
 }
