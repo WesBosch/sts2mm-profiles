@@ -5,11 +5,11 @@
   "created_by": "WesBosch",
   "mods": [
     {
-      "mod_version_id": "1250cc22-b38a-4c9e-b5dc-b8513049b401",
+      "mod_version_id": "27450e86-f678-4aba-9e83-a6b2dab4db9b",
       "name": "BaseLib",
-      "version": "v3.3.5",
+      "version": "v3.3.7",
       "source": "github:Alchyr/BaseLib-StS2",
-      "hash": "da23854ed230647a02798cbb3cfe284ce54727c1843ff0d0d5d8a388314e2ad5",
+      "hash": "b042fae73cf8662ccbb2f3bc3609c4c29fc696f0aa6fb5fb5e01837e2f862ba2",
       "files": [
         "BaseLib\\BaseLib.dll",
         "BaseLib\\BaseLib.json",
@@ -18,15 +18,15 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/BaseLib_v3.3.5_e77940dc.zip",
-      "bundle_sha256": "e77940dcfdfa1e7485aec68d2bbbd8d232836c400eb844f4b37267338afd5dbd"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/BaseLib_v3.3.7_b8b896f2.zip",
+      "bundle_sha256": "b8b896f28bda69884f9752f893d3a61734a5a629c9b7d30b0bc15ce90c16c2d7"
     },
     {
-      "mod_version_id": "ee73f13d-8429-42b7-a53f-55a00fbc01b2",
+      "mod_version_id": "0dea64f6-4eaf-4f39-9c08-520eb1c3a870",
       "name": "BetterSpire2",
-      "version": "v1.83.3",
+      "version": "v1.83.8",
       "source": "nexus:slaythespire2/mods/2",
-      "hash": "084b2d6f2f86f30a91f0320f209eac3f0cecb86fa4a94d5a6f86cd17fa60dc7f",
+      "hash": "cd785b008a28cdc37d335ba933a0cc8acc7842a05496da94295855106a3eab75",
       "files": [
         "BetterSpire2\\BetterSpire2.dll",
         "BetterSpire2\\BetterSpire2.json",
@@ -49,15 +49,15 @@
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.3_b5568895.zip",
-      "bundle_sha256": "b5568895445e365d6efee2ebecd10a5018afcb13c33da5ee331e5f8dda7312b4"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.8_593e31cd.zip",
+      "bundle_sha256": "593e31cddd367fc6b952bdba4c9951ae69041c1bb289f8d1433f5228c25fcf71"
     },
     {
-      "mod_version_id": "6af5d77d-4d94-4fe0-9311-3303eca27438",
+      "mod_version_id": "f456b4df-441a-4a0a-b84c-5390221f24a5",
       "name": "LegacySpire",
-      "version": "1.1.15",
+      "version": "1.1.18",
       "source": "nexus:slaythespire2/mods/215",
-      "hash": "f8cb2f253c43d8d252165601c86db452425c42bd073b5fa2232b214151d79690",
+      "hash": "4255879e473708a5b6bb027c41100144600bacef79905f98065a9dc85ad99d92",
       "files": [
         "LegacySpire\\LegacySpire.dll",
         "LegacySpire\\LegacySpire.json",
@@ -66,8 +66,8 @@
       "folder_name": "LegacySpire",
       "mod_id": "LegacySpire",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.1.15_0f5ca936.zip",
-      "bundle_sha256": "0f5ca936f6b9c60b09ef5fb830b595aa4f80df621e8ef14d53ec60d42c1caf79"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.1.18_21163352.zip",
+      "bundle_sha256": "211633527ab1c69becad93b77924c0c76ec35758b777df026363980c6baf5b0d"
     },
     {
       "mod_version_id": "67e88cbc-417d-4c0a-ad9c-e0de801e49a7",
@@ -287,21 +287,21 @@
       "bundle_sha256": "cac7a85294c311fea2c6f7e235c86c811c6d91046b04c2a99bc89564827ba8e3"
     },
     {
-      "mod_version_id": "edc6b72b-1964-47bc-9be2-c33bc54fe532",
+      "mod_version_id": "008e61b4-702f-499d-b22f-be115e738868",
       "name": "Acts from the Past",
-      "version": "1.0.2",
+      "version": "1.0.4",
       "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3746969593",
-      "hash": "b951f4e524dea205c74b68bda8380bb80853883beac61ba8928e139f2c494f18",
+      "hash": "cc60b998fd33c71e93f968cf158dbdcf58268f62b346bbf7d57707ec8c091c65",
       "files": [
-        "ActsFromThePast\\ActsFromThePast.dll",
-        "ActsFromThePast\\ActsFromThePast.json",
-        "ActsFromThePast\\ActsFromThePast.pck"
+        "3746969593\\ActsFromThePast.dll",
+        "3746969593\\ActsFromThePast.json",
+        "3746969593\\ActsFromThePast.pck"
       ],
-      "folder_name": "ActsFromThePast",
+      "folder_name": "3746969593",
       "mod_id": "ActsFromThePast",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Acts_from_the_Past_v1.0.2_e966f48c.zip",
-      "bundle_sha256": "e966f48c9d45f1f972508e4885a22395e05bdd1c7551640b068d9eaae47867c6"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Acts_from_the_Past_v1.0.4_a89fa096.zip",
+      "bundle_sha256": "a89fa0966bccec44e2cd6b936f4ddf6a4f048398f2e4587109497ad681405e85"
     },
     {
       "mod_version_id": "86e0c59d-21d2-42fb-b272-06b0ab8d1c7e",
@@ -414,9 +414,43 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Merchant_Expansion_v0.1.3_0527309c.zip",
       "bundle_sha256": "0527309c8cb79a77627e64d8bd8e43ad3eae56cf0cc31d47cf268fb340585729"
+    },
+    {
+      "mod_version_id": "38c71d04-0f56-40d1-83cc-3350c15965ed",
+      "name": "HorizontalMap",
+      "version": "1.2.0",
+      "source": null,
+      "hash": "ac3246993573bde9f3fb4e1795eebdf3a17e17e8b3d8eeae44dc20c43b28f7e7",
+      "files": [
+        "3764866327\\HorizontalMap\\HorizontalMap.dll",
+        "3764866327\\HorizontalMap\\HorizontalMap.json",
+        "3764866327\\HorizontalMap\\hud_offset.json"
+      ],
+      "folder_name": "HorizontalMap",
+      "mod_id": "HorizontalMap",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/HorizontalMap_v1.2.0_8766f2d6.zip",
+      "bundle_sha256": "8766f2d6adf14d7d7e235c3ba560f11f5e25517b7b1df5b9086cf75ce5bb4bcd"
+    },
+    {
+      "mod_version_id": "d8226994-6f38-4d96-bb24-172dfc75e7a2",
+      "name": "Duck",
+      "version": "v0.3.2",
+      "source": null,
+      "hash": "cdf23ff1ea019cfe4348bdcabf65aa209c8c06a1554888b27bf27e4bbffb27b6",
+      "files": [
+        "3747509224\\duck.dll",
+        "3747509224\\Duck.json",
+        "3747509224\\Duck.pck"
+      ],
+      "folder_name": "3747509224",
+      "mod_id": "Duck",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Duck_v0.3.2_2a06ad86.zip",
+      "bundle_sha256": "2a06ad86ecd62eaf36c14ed5c4edaa14f34d65a56a31eeac9d6896add3bf013f"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-18T04:21:55.525055800Z",
+  "updated_at": "2026-07-18T04:57:07.733698300Z",
   "public": false
 }
