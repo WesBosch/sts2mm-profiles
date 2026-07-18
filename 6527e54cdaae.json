@@ -1,7 +1,7 @@
 {
   "id": "87d70261-0174-4c2c-b060-fecf4a0bf1e8",
   "name": "Pages Pack",
-  "game_version": "0.108.0",
+  "game_version": "0.109.0",
   "created_by": "WesBosch",
   "mods": [
     {
@@ -119,11 +119,11 @@
       "bundle_sha256": "3966fd23813432cd907271accde25b335e4f2821308078bf85876ce2595365a9"
     },
     {
-      "mod_version_id": "8e3dbe4f-bdd5-4d09-9398-166f639192e8",
+      "mod_version_id": "d800dbfa-3653-4ef1-a24a-c89adc3949d4",
       "name": "Watcher",
-      "version": "1.5.2",
+      "version": "1.5.3",
       "source": "nexus:slaythespire2/mods/46",
-      "hash": "3ff28382951136654cbfb28f243c503c98d24e3596436cad128a8e7d7f3576f0",
+      "hash": "657f130834dd978a93aba7fe5603083a2f88aeb772e5400045f696251b501434",
       "files": [
         "Watcher\\Watcher\\Watcher.dll",
         "Watcher\\Watcher\\Watcher.json",
@@ -132,8 +132,8 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Watcher_v1.5.2_f4a4ef0e.zip",
-      "bundle_sha256": "f4a4ef0e7445749df6253c34bc74fd3ca8095d6bda0d9e0caf7409f7fdce63f6"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Watcher_v1.5.3_fa76067c.zip",
+      "bundle_sha256": "fa76067c0887e7a7074cad88bf367dd62ce37f7782cec979a5d366870bcd6130"
     },
     {
       "mod_version_id": "28a364d5-b3db-4c00-a2ad-1d2f0adb0821",
@@ -366,11 +366,11 @@
       "bundle_sha256": "e9b3bd855c53ecbb9b9bde83eca9aff523b8e3012b12a919cbbdb40ec9ffc653"
     },
     {
-      "mod_version_id": "627da4ae-b566-4394-a77a-07a291cbb4c9",
+      "mod_version_id": "46076924-a43b-4efb-90fc-2ee9fa322ec8",
       "name": "RitsuLib",
-      "version": "0.4.57",
+      "version": "0.4.59",
       "source": "nexus:slaythespire2/mods/137",
-      "hash": "2bc8046f84cd905d47952d6962a248ae42f236cdb004128d609ae1eecd51a017",
+      "hash": "6d0fc77b0a0172acc03922f7b51448ad082f55b4eac1045ad09409a04ba7f20f",
       "files": [
         "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
         "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
@@ -380,6 +380,10 @@
         "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.dll",
         "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.pdb",
         "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.109.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.xml",
         "STS2-RitsuLib\\mod_manifest.json",
         "STS2-RitsuLib\\ritsulib-variants.manifest",
         "STS2-RitsuLib\\STS2-RitsuLib.dll",
@@ -391,8 +395,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.57_a9a9b8fa.zip",
-      "bundle_sha256": "a9a9b8fa0e0a5bb21a5096300aad22a9580ca36796b3eca2455fe96990fe455b"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.59_d9db1a1e.zip",
+      "bundle_sha256": "d9db1a1eb0f2d76b7c9e5a6db2abb93592982061855458af41f596f31242022f"
     },
     {
       "mod_version_id": "4c5f4e0d-0118-44dc-821e-04dd53da698f",
@@ -413,6 +417,6 @@
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-15T11:09:59.424763600Z",
+  "updated_at": "2026-07-18T04:21:55.525055800Z",
   "public": false
 }
