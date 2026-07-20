@@ -222,51 +222,34 @@
       "bundle_sha256": "09726b540d559ff33cd79248df057a04faebcd8d4e025ffa3ac9614f907cee51"
     },
     {
-      "mod_version_id": "f7a473c2-e046-468e-b884-a586e3f75913",
+      "mod_version_id": "0f203b46-cfb3-4da1-82be-592742a99ed7",
       "name": "Party Signals - Automatic Card Callouts",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "source": "nexus:slaythespire2/mods/697",
-      "hash": "9a70f75224633a86dbc090777ee07da9df0fd5b65f8fa033091b4b760c8ba608",
+      "hash": "9c895eb5d69f25634b5ac184291ec49aefd5bdcb74d052a47a242fde1366ea23",
       "files": [
-        "partysignals\\partysignals.dll",
-        "partysignals\\partysignals.json",
-        "partysignals\\translations\\deu.loc",
-        "partysignals\\translations\\eng.loc",
-        "partysignals\\translations\\esp.loc",
-        "partysignals\\translations\\fra.loc",
-        "partysignals\\translations\\ita.loc",
-        "partysignals\\translations\\jpn.loc",
-        "partysignals\\translations\\kor.loc",
-        "partysignals\\translations\\pol.loc",
-        "partysignals\\translations\\ptb.loc",
-        "partysignals\\translations\\rus.loc",
-        "partysignals\\translations\\spa.loc",
-        "partysignals\\translations\\tha.loc",
-        "partysignals\\translations\\tur.loc",
-        "partysignals\\translations\\zhs.loc"
+        "mods\\partysignals\\partysignals.dll",
+        "mods\\partysignals\\partysignals.json",
+        "mods\\partysignals\\translations\\deu.loc",
+        "mods\\partysignals\\translations\\eng.loc",
+        "mods\\partysignals\\translations\\esp.loc",
+        "mods\\partysignals\\translations\\fra.loc",
+        "mods\\partysignals\\translations\\ita.loc",
+        "mods\\partysignals\\translations\\jpn.loc",
+        "mods\\partysignals\\translations\\kor.loc",
+        "mods\\partysignals\\translations\\pol.loc",
+        "mods\\partysignals\\translations\\ptb.loc",
+        "mods\\partysignals\\translations\\rus.loc",
+        "mods\\partysignals\\translations\\spa.loc",
+        "mods\\partysignals\\translations\\tha.loc",
+        "mods\\partysignals\\translations\\tur.loc",
+        "mods\\partysignals\\translations\\zhs.loc"
       ],
       "folder_name": "partysignals",
       "mod_id": "partysignals",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Party_Signals_-_Automatic_Card_Callouts_v1.0.5_ff33092f.zip",
-      "bundle_sha256": "ff33092f110ad55e7e5928361f14855dee8e70196b55c934a3c5a49b89f20676"
-    },
-    {
-      "mod_version_id": "eb4a7c5a-97e6-4a92-88c6-88f3422f9d6f",
-      "name": "Relic Upgrades",
-      "version": "1.0.6",
-      "source": "nexus:slaythespire2/mods/1053",
-      "hash": "3c68d79cff4655a99cbc895225213c0c0294a4c97a25b98d6a07fe19937f1780",
-      "files": [
-        "RelicUpgrades\\RelicUpgrades.dll",
-        "RelicUpgrades\\RelicUpgrades.json",
-        "RelicUpgrades\\RelicUpgrades.pck"
-      ],
-      "folder_name": "RelicUpgrades",
-      "mod_id": "RelicUpgrades",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Relic_Upgrades_v1.0.6_5da62ada.zip",
-      "bundle_sha256": "5da62adad78818292d9d317da51567cc9067fa8542634d61cd91e687372a84b6"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Party_Signals_-_Automatic_Card_Callouts_v1.0.6_75ab4dac.zip",
+      "bundle_sha256": "75ab4dac613862dfb9fb904dc8ce765ad6c4fa86a39d9a1a44317ba626057898"
     },
     {
       "mod_version_id": "d52f2bb6-94c9-48ab-b888-c8d96112a5a0",
@@ -285,23 +268,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_cac7a852.zip",
       "bundle_sha256": "cac7a85294c311fea2c6f7e235c86c811c6d91046b04c2a99bc89564827ba8e3"
-    },
-    {
-      "mod_version_id": "008e61b4-702f-499d-b22f-be115e738868",
-      "name": "Acts from the Past",
-      "version": "1.0.4",
-      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3746969593",
-      "hash": "cc60b998fd33c71e93f968cf158dbdcf58268f62b346bbf7d57707ec8c091c65",
-      "files": [
-        "3746969593\\ActsFromThePast.dll",
-        "3746969593\\ActsFromThePast.json",
-        "3746969593\\ActsFromThePast.pck"
-      ],
-      "folder_name": "3746969593",
-      "mod_id": "ActsFromThePast",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Acts_from_the_Past_v1.0.4_a89fa096.zip",
-      "bundle_sha256": "a89fa0966bccec44e2cd6b936f4ddf6a4f048398f2e4587109497ad681405e85"
     },
     {
       "mod_version_id": "86e0c59d-21d2-42fb-b272-06b0ab8d1c7e",
@@ -366,11 +332,11 @@
       "bundle_sha256": "e9b3bd855c53ecbb9b9bde83eca9aff523b8e3012b12a919cbbdb40ec9ffc653"
     },
     {
-      "mod_version_id": "46076924-a43b-4efb-90fc-2ee9fa322ec8",
+      "mod_version_id": "1817c027-f4b1-4630-9f1d-6104686c6556",
       "name": "RitsuLib",
-      "version": "0.4.59",
+      "version": "0.4.60",
       "source": "nexus:slaythespire2/mods/137",
-      "hash": "6d0fc77b0a0172acc03922f7b51448ad082f55b4eac1045ad09409a04ba7f20f",
+      "hash": "32a08ce02c893c7f23f27d2aab7adb8b3b8931ce68319cee65062aa7fdf9fb76",
       "files": [
         "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
         "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
@@ -395,8 +361,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.59_d9db1a1e.zip",
-      "bundle_sha256": "d9db1a1eb0f2d76b7c9e5a6db2abb93592982061855458af41f596f31242022f"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.60_f8099bdc.zip",
+      "bundle_sha256": "f8099bdcd33d8359e4cd5976756a646224a4b1f35cf4d763f014c936eddcbb75"
     },
     {
       "mod_version_id": "4c5f4e0d-0118-44dc-821e-04dd53da698f",
@@ -416,41 +382,24 @@
       "bundle_sha256": "0527309c8cb79a77627e64d8bd8e43ad3eae56cf0cc31d47cf268fb340585729"
     },
     {
-      "mod_version_id": "38c71d04-0f56-40d1-83cc-3350c15965ed",
-      "name": "HorizontalMap",
-      "version": "1.2.0",
-      "source": null,
-      "hash": "ac3246993573bde9f3fb4e1795eebdf3a17e17e8b3d8eeae44dc20c43b28f7e7",
+      "mod_version_id": "008e61b4-702f-499d-b22f-be115e738868",
+      "name": "Acts from the Past",
+      "version": "1.0.4",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3746969593",
+      "hash": "cc60b998fd33c71e93f968cf158dbdcf58268f62b346bbf7d57707ec8c091c65",
       "files": [
-        "3764866327\\HorizontalMap\\HorizontalMap.dll",
-        "3764866327\\HorizontalMap\\HorizontalMap.json",
-        "3764866327\\HorizontalMap\\hud_offset.json"
+        "3746969593\\ActsFromThePast.dll",
+        "3746969593\\ActsFromThePast.json",
+        "3746969593\\ActsFromThePast.pck"
       ],
-      "folder_name": "HorizontalMap",
-      "mod_id": "HorizontalMap",
+      "folder_name": "3746969593",
+      "mod_id": "ActsFromThePast",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/HorizontalMap_v1.2.0_8766f2d6.zip",
-      "bundle_sha256": "8766f2d6adf14d7d7e235c3ba560f11f5e25517b7b1df5b9086cf75ce5bb4bcd"
-    },
-    {
-      "mod_version_id": "d8226994-6f38-4d96-bb24-172dfc75e7a2",
-      "name": "Duck",
-      "version": "v0.3.2",
-      "source": null,
-      "hash": "cdf23ff1ea019cfe4348bdcabf65aa209c8c06a1554888b27bf27e4bbffb27b6",
-      "files": [
-        "3747509224\\duck.dll",
-        "3747509224\\Duck.json",
-        "3747509224\\Duck.pck"
-      ],
-      "folder_name": "3747509224",
-      "mod_id": "Duck",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Duck_v0.3.2_2a06ad86.zip",
-      "bundle_sha256": "2a06ad86ecd62eaf36c14ed5c4edaa14f34d65a56a31eeac9d6896add3bf013f"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Acts_from_the_Past_v1.0.4_a89fa096.zip",
+      "bundle_sha256": "a89fa0966bccec44e2cd6b936f4ddf6a4f048398f2e4587109497ad681405e85"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-18T04:57:07.733698300Z",
+  "updated_at": "2026-07-20T03:21:31.512759300Z",
   "public": false
 }
