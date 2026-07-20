@@ -397,9 +397,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Acts_from_the_Past_v1.0.4_a89fa096.zip",
       "bundle_sha256": "a89fa0966bccec44e2cd6b936f4ddf6a4f048398f2e4587109497ad681405e85"
+    },
+    {
+      "mod_version_id": "7f5ba0ca-5b5b-4fab-badc-cc56b99be2ff",
+      "name": "Downfall",
+      "version": "0.0.32",
+      "source": null,
+      "hash": "6a412f759d02054ccca01a5311ef8c15ef610686cf3cd527b5947431d3a184cf",
+      "files": [
+        "3747508091\\Downfall.dll",
+        "3747508091\\Downfall.json",
+        "3747508091\\Downfall.pck"
+      ],
+      "folder_name": "3747508091",
+      "mod_id": "Downfall",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Downfall_v0.0.32_052ae90e.zip",
+      "bundle_sha256": "052ae90eb6f3d85b32a0a08511c46cfd8166b8c1950e3e5ceb18a28a406fad84"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-20T03:21:31.512759300Z",
+  "updated_at": "2026-07-20T06:14:05.675414500Z",
   "public": false
 }
