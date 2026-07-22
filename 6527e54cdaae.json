@@ -136,7 +136,7 @@
       "bundle_sha256": "2f234659440d64b7065f02e569041051f33a531cca91b5758826716c581b88e1"
     },
     {
-      "mod_version_id": "28a364d5-b3db-4c00-a2ad-1d2f0adb0821",
+      "mod_version_id": "d8f8fd57-3437-4141-8eae-bde7e0ce84b3",
       "name": "Better Card Rewards",
       "version": "1.1.4",
       "source": "nexus:slaythespire2/mods/314",
@@ -431,9 +431,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Downfall_v0.0.32_052ae90e.zip",
       "bundle_sha256": "052ae90eb6f3d85b32a0a08511c46cfd8166b8c1950e3e5ceb18a28a406fad84"
+    },
+    {
+      "mod_version_id": "e1dd63cd-9309-431b-8ca7-c562c66faa55",
+      "name": "More Upgrades",
+      "version": "v1.1.0",
+      "source": null,
+      "hash": "1161d15b41ed09e0b5682b563546dde902f75d647cb1037835ca6298b4fbca47",
+      "files": [
+        "MoreUpgrades\\MoreUpgrades\\MoreUpgrades.cfg",
+        "MoreUpgrades\\MoreUpgrades\\MoreUpgrades.dll",
+        "MoreUpgrades\\MoreUpgrades\\MoreUpgrades.json"
+      ],
+      "folder_name": "MoreUpgrades",
+      "mod_id": "MoreUpgrades",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/More_Upgrades_v1.1.0_e8718f23.zip",
+      "bundle_sha256": "e8718f23f70b48c3641435adb6afe6a87126e3a61521ecfe0e1d450c32dabe22"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-22T01:53:53.053302800Z",
+  "updated_at": "2026-07-22T05:01:57.743205100Z",
   "public": false
 }
