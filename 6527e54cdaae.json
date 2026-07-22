@@ -119,11 +119,11 @@
       "bundle_sha256": "3966fd23813432cd907271accde25b335e4f2821308078bf85876ce2595365a9"
     },
     {
-      "mod_version_id": "d800dbfa-3653-4ef1-a24a-c89adc3949d4",
+      "mod_version_id": "50fb9025-2a0f-4565-9493-12fa68c17435",
       "name": "Watcher",
-      "version": "1.5.3",
+      "version": "1.5.5",
       "source": "nexus:slaythespire2/mods/46",
-      "hash": "657f130834dd978a93aba7fe5603083a2f88aeb772e5400045f696251b501434",
+      "hash": "2d7365e199a3d2b1b0004da856ad8b0cc5476f7b9e7307e5c492b80cf066c9f3",
       "files": [
         "Watcher\\Watcher\\Watcher.dll",
         "Watcher\\Watcher\\Watcher.json",
@@ -132,8 +132,8 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Watcher_v1.5.3_fa76067c.zip",
-      "bundle_sha256": "fa76067c0887e7a7074cad88bf367dd62ce37f7782cec979a5d366870bcd6130"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Watcher_v1.5.5_2f234659.zip",
+      "bundle_sha256": "2f234659440d64b7065f02e569041051f33a531cca91b5758826716c581b88e1"
     },
     {
       "mod_version_id": "28a364d5-b3db-4c00-a2ad-1d2f0adb0821",
@@ -252,6 +252,23 @@
       "bundle_sha256": "75ab4dac613862dfb9fb904dc8ce765ad6c4fa86a39d9a1a44317ba626057898"
     },
     {
+      "mod_version_id": "59c40051-9dd6-4f8e-a2de-dda57dbe1532",
+      "name": "Relic Upgrades",
+      "version": "1.0.7",
+      "source": "nexus:slaythespire2/mods/1053",
+      "hash": "8056bb9344802603e6b2fed2cea9b6d75a7a2ebf2f026e7aacaa9b494b6dbf6e",
+      "files": [
+        "RelicUpgrades\\RelicUpgrades.dll",
+        "RelicUpgrades\\RelicUpgrades.json",
+        "RelicUpgrades\\RelicUpgrades.pck"
+      ],
+      "folder_name": "RelicUpgrades",
+      "mod_id": "RelicUpgrades",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Relic_Upgrades_v1.0.7_597a7f2c.zip",
+      "bundle_sha256": "597a7f2c8a9dfce02f3a564de1d36377721f29c955462b4028f01ef288f5f51e"
+    },
+    {
       "mod_version_id": "d52f2bb6-94c9-48ab-b888-c8d96112a5a0",
       "name": "RemoveMultiplayerPlayerLimit",
       "version": "0.1.7",
@@ -332,11 +349,11 @@
       "bundle_sha256": "e9b3bd855c53ecbb9b9bde83eca9aff523b8e3012b12a919cbbdb40ec9ffc653"
     },
     {
-      "mod_version_id": "1817c027-f4b1-4630-9f1d-6104686c6556",
+      "mod_version_id": "d7213868-43ef-48a6-9ee4-148f8a5c24e3",
       "name": "RitsuLib",
-      "version": "0.4.60",
+      "version": "0.4.62",
       "source": "nexus:slaythespire2/mods/137",
-      "hash": "32a08ce02c893c7f23f27d2aab7adb8b3b8931ce68319cee65062aa7fdf9fb76",
+      "hash": "a98689fa13f1c5aaca84372709c7146cb333cb4b00bfe2cb881b819526f25d6a",
       "files": [
         "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
         "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
@@ -361,8 +378,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.60_f8099bdc.zip",
-      "bundle_sha256": "f8099bdcd33d8359e4cd5976756a646224a4b1f35cf4d763f014c936eddcbb75"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.62_523382cd.zip",
+      "bundle_sha256": "523382cd94a5281282df2e2cd0dfaebfd5cca59d749214b1b3871edf813e4bcb"
     },
     {
       "mod_version_id": "4c5f4e0d-0118-44dc-821e-04dd53da698f",
@@ -417,6 +434,6 @@
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-20T06:14:05.675414500Z",
+  "updated_at": "2026-07-22T01:53:53.053302800Z",
   "public": false
 }
