@@ -1,7 +1,7 @@
 {
   "id": "87d70261-0174-4c2c-b060-fecf4a0bf1e8",
   "name": "Pages Pack",
-  "game_version": "0.109.0",
+  "game_version": "0.109.1",
   "created_by": "WesBosch",
   "mods": [
     {
@@ -227,24 +227,7 @@
       "version": "1.0.6",
       "source": "nexus:slaythespire2/mods/697",
       "hash": "9c895eb5d69f25634b5ac184291ec49aefd5bdcb74d052a47a242fde1366ea23",
-      "files": [
-        "mods\\partysignals\\partysignals.dll",
-        "mods\\partysignals\\partysignals.json",
-        "mods\\partysignals\\translations\\deu.loc",
-        "mods\\partysignals\\translations\\eng.loc",
-        "mods\\partysignals\\translations\\esp.loc",
-        "mods\\partysignals\\translations\\fra.loc",
-        "mods\\partysignals\\translations\\ita.loc",
-        "mods\\partysignals\\translations\\jpn.loc",
-        "mods\\partysignals\\translations\\kor.loc",
-        "mods\\partysignals\\translations\\pol.loc",
-        "mods\\partysignals\\translations\\ptb.loc",
-        "mods\\partysignals\\translations\\rus.loc",
-        "mods\\partysignals\\translations\\spa.loc",
-        "mods\\partysignals\\translations\\tha.loc",
-        "mods\\partysignals\\translations\\tur.loc",
-        "mods\\partysignals\\translations\\zhs.loc"
-      ],
+      "files": [],
       "folder_name": "partysignals",
       "mod_id": "partysignals",
       "enabled": true,
