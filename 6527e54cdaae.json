@@ -227,7 +227,24 @@
       "version": "1.0.6",
       "source": "nexus:slaythespire2/mods/697",
       "hash": "9c895eb5d69f25634b5ac184291ec49aefd5bdcb74d052a47a242fde1366ea23",
-      "files": [],
+      "files": [
+        "mods\\partysignals\\partysignals.dll",
+        "mods\\partysignals\\partysignals.json",
+        "mods\\partysignals\\translations\\deu.loc",
+        "mods\\partysignals\\translations\\eng.loc",
+        "mods\\partysignals\\translations\\esp.loc",
+        "mods\\partysignals\\translations\\fra.loc",
+        "mods\\partysignals\\translations\\ita.loc",
+        "mods\\partysignals\\translations\\jpn.loc",
+        "mods\\partysignals\\translations\\kor.loc",
+        "mods\\partysignals\\translations\\pol.loc",
+        "mods\\partysignals\\translations\\ptb.loc",
+        "mods\\partysignals\\translations\\rus.loc",
+        "mods\\partysignals\\translations\\spa.loc",
+        "mods\\partysignals\\translations\\tha.loc",
+        "mods\\partysignals\\translations\\tur.loc",
+        "mods\\partysignals\\translations\\zhs.loc"
+      ],
       "folder_name": "partysignals",
       "mod_id": "partysignals",
       "enabled": true,
@@ -468,6 +485,6 @@
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-25T04:16:45.325660800Z",
+  "updated_at": "2026-07-26T02:21:22.702995600Z",
   "public": false
 }
