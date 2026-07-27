@@ -1,6 +1,6 @@
 {
   "id": "87d70261-0174-4c2c-b060-fecf4a0bf1e8",
-  "name": "Pages Pack",
+  "name": "Pages Discord Pack v0.109.1b",
   "game_version": "0.109.1",
   "created_by": "WesBosch",
   "mods": [
@@ -484,26 +484,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.2.1_81109ae0.zip",
       "bundle_sha256": "81109ae05e2760f98afc6aa78ed19ba888611969a5d544430b2e0b616f85616d"
-    },
-    {
-      "mod_version_id": "ffd0f0c5-77ae-4aed-8c24-a9ff958558bb",
-      "name": "Pass the Spire - Hotseat Multiplayer",
-      "version": "v1.1.0",
-      "source": null,
-      "hash": "56be03842ca93ae73c5c4ce2c89fa2380e72feff6ceb2b1be77748b7330961fc",
-      "files": [
-        "hotseatCoop\\PassTheSpire.dll",
-        "hotseatCoop\\PassTheSpire.json",
-        "hotseatCoop\\README.md"
-      ],
-      "folder_name": "hotseatCoop",
-      "mod_id": "PassTheSpire",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Pass_the_Spire_-_Hotseat_Multiplayer_v1.1.0_046fb526.zip",
-      "bundle_sha256": "046fb526d89fdb8ebacad39cc2a203aa6a3e84e7e630af5241820658d0a89bda"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-27T21:41:29.118474800Z",
+  "updated_at": "2026-07-27T21:51:35.918203100Z",
   "public": false
 }
