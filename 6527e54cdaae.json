@@ -53,23 +53,6 @@
       "bundle_sha256": "593e31cddd367fc6b952bdba4c9951ae69041c1bb289f8d1433f5228c25fcf71"
     },
     {
-      "mod_version_id": "a9a7e845-5e90-4604-9c8e-c938c421944d",
-      "name": "LegacySpire",
-      "version": "1.1.15",
-      "source": "nexus:slaythespire2/mods/215",
-      "hash": "f8cb2f253c43d8d252165601c86db452425c42bd073b5fa2232b214151d79690",
-      "files": [
-        "LegacySpire\\LegacySpire.dll",
-        "LegacySpire\\LegacySpire.json",
-        "LegacySpire\\LegacySpire.pck"
-      ],
-      "folder_name": "LegacySpire",
-      "mod_id": "LegacySpire",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.1.15_0f5ca936.zip",
-      "bundle_sha256": "0f5ca936f6b9c60b09ef5fb830b595aa4f80df621e8ef14d53ec60d42c1caf79"
-    },
-    {
       "mod_version_id": "67e88cbc-417d-4c0a-ad9c-e0de801e49a7",
       "name": "Relic Reward Choice",
       "version": "1.7.8",
@@ -151,24 +134,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Better_Card_Rewards_v1.1.4_d45d4eca.zip",
       "bundle_sha256": "d45d4eca8b27851c2a23df1777f0644dfc24f727e2e1fdb00da5e91e5444ccc7"
-    },
-    {
-      "mod_version_id": "3cc666f1-a971-426a-96be-9a3d6ff2d12b",
-      "name": "更多的假遗物",
-      "version": "1.0.4",
-      "source": "nexus:slaythespire2/mods/1181",
-      "hash": "6dfede11205ee7983deefc48bb6c99b7d89a9f3ae13ccc5cb17e09e5e4762a8a",
-      "files": [
-        "Fake Merchant Expansion\\Fake Merchant Expansion.dll",
-        "Fake Merchant Expansion\\Fake Merchant Expansion.json",
-        "Fake Merchant Expansion\\Fake Merchant Expansion.pck",
-        "Fake Merchant Expansion\\README.md"
-      ],
-      "folder_name": "Fake Merchant Expansion",
-      "mod_id": "Fake Merchant Expansion",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/_v1.0.4_5c60aed9.zip",
-      "bundle_sha256": "5c60aed9c6222fbd55e71ad02458de4555efc349bd678aecc675ebc2549adb3e"
     },
     {
       "mod_version_id": "860432b1-5587-439b-a24c-a8d48c82c351",
@@ -287,23 +252,6 @@
       "bundle_sha256": "cac7a85294c311fea2c6f7e235c86c811c6d91046b04c2a99bc89564827ba8e3"
     },
     {
-      "mod_version_id": "86e0c59d-21d2-42fb-b272-06b0ab8d1c7e",
-      "name": "Act Toggler",
-      "version": "1.0.2",
-      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3737158447",
-      "hash": "c988c4c9054d38c38f745545117f21d2104df2c7761db723f7baac09c63d15b6",
-      "files": [
-        "ActToggler\\ActToggler.dll",
-        "ActToggler\\ActToggler.json",
-        "ActToggler\\ActToggler.pck"
-      ],
-      "folder_name": "ActToggler",
-      "mod_id": "ActToggler",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Act_Toggler_v1.0.2_ad207656.zip",
-      "bundle_sha256": "ad2076561309504dc39bccff71a94c4aa8e612e82ef54a6197b239bdea6e915e"
-    },
-    {
       "mod_version_id": "2f8d25f5-d2e6-4d0c-939c-76e475947130",
       "name": "Draw Anywhere",
       "version": "0.3.0",
@@ -382,40 +330,6 @@
       "bundle_sha256": "005bc98f57f20c6a5e50321802316af96f7302228f01dfe34c16f441a4adc240"
     },
     {
-      "mod_version_id": "4c5f4e0d-0118-44dc-821e-04dd53da698f",
-      "name": "Merchant Expansion",
-      "version": "0.1.3",
-      "source": "nexus:slaythespire2/mods/1182",
-      "hash": "d908ed7f3799e620695bbb5b3553179c6759d32c21750428ab1baec6ef0ffdd1",
-      "files": [
-        "MerchantExpansion\\MerchantExpansion.dll",
-        "MerchantExpansion\\MerchantExpansion.json",
-        "MerchantExpansion\\MerchantExpansion.pck"
-      ],
-      "folder_name": "MerchantExpansion",
-      "mod_id": "MerchantExpansion",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Merchant_Expansion_v0.1.3_0527309c.zip",
-      "bundle_sha256": "0527309c8cb79a77627e64d8bd8e43ad3eae56cf0cc31d47cf268fb340585729"
-    },
-    {
-      "mod_version_id": "008e61b4-702f-499d-b22f-be115e738868",
-      "name": "Acts from the Past",
-      "version": "1.0.4",
-      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3746969593",
-      "hash": "cc60b998fd33c71e93f968cf158dbdcf58268f62b346bbf7d57707ec8c091c65",
-      "files": [
-        "3746969593\\ActsFromThePast.dll",
-        "3746969593\\ActsFromThePast.json",
-        "3746969593\\ActsFromThePast.pck"
-      ],
-      "folder_name": "3746969593",
-      "mod_id": "ActsFromThePast",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Acts_from_the_Past_v1.0.4_a89fa096.zip",
-      "bundle_sha256": "a89fa0966bccec44e2cd6b936f4ddf6a4f048398f2e4587109497ad681405e85"
-    },
-    {
       "mod_version_id": "7f5ba0ca-5b5b-4fab-badc-cc56b99be2ff",
       "name": "Downfall",
       "version": "0.0.32",
@@ -485,6 +399,6 @@
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-26T03:06:38.778007100Z",
+  "updated_at": "2026-07-27T04:46:47.714495900Z",
   "public": false
 }
