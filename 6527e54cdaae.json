@@ -1,6 +1,6 @@
 {
   "id": "87d70261-0174-4c2c-b060-fecf4a0bf1e8",
-  "name": "Pages Discord Pack v0.109.1b",
+  "name": "Pages v0.109.1b",
   "game_version": "0.109.1",
   "created_by": "WesBosch",
   "mods": [
@@ -487,6 +487,6 @@
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-27T21:51:35.918203100Z",
-  "public": false
+  "updated_at": "2026-07-27T21:52:24.638549100Z",
+  "public": true
 }
