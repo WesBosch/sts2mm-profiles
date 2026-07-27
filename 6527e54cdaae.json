@@ -217,11 +217,11 @@
       "bundle_sha256": "75ab4dac613862dfb9fb904dc8ce765ad6c4fa86a39d9a1a44317ba626057898"
     },
     {
-      "mod_version_id": "683bf31a-7322-480a-a7d7-eac8e07e1358",
+      "mod_version_id": "9124e2e7-83f3-4745-b2c7-174c48c0775d",
       "name": "Relic Upgrades",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "source": "nexus:slaythespire2/mods/1053",
-      "hash": "97cbc148759115c6fe8a088c3a61755248b9c26fef18bec7319be245cff150d1",
+      "hash": "f84381f36b6e4c2c8f66a30827555d8a00eb4859740f5afa8d32d94f44d1be84",
       "files": [
         "RelicUpgrades\\RelicUpgrades.dll",
         "RelicUpgrades\\RelicUpgrades.json",
@@ -230,8 +230,8 @@
       "folder_name": "RelicUpgrades",
       "mod_id": "RelicUpgrades",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Relic_Upgrades_v1.0.8_3ad7ba93.zip",
-      "bundle_sha256": "3ad7ba93ab61e67b27b045a68aaf2a8d3d82be3cd245d392ef99a5d07f08d5bf"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Relic_Upgrades_v1.0.9_e2664783.zip",
+      "bundle_sha256": "e2664783b9d8c198c395726d5898b0b399f7b33b896c9f2d08a0157e7c870b63"
     },
     {
       "mod_version_id": "d52f2bb6-94c9-48ab-b888-c8d96112a5a0",
@@ -469,11 +469,11 @@
       "bundle_sha256": "5f6a677df149cd8fd37cc358df8a072aa5ff420bb12cd33202bc8b243f39753e"
     },
     {
-      "mod_version_id": "a9a7e845-5e90-4604-9c8e-c938c421944d",
+      "mod_version_id": "891e6ca3-5478-4b29-8d8b-a1613389ad8e",
       "name": "LegacySpire",
-      "version": "1.1.15",
+      "version": "1.2.1",
       "source": "nexus:slaythespire2/mods/215",
-      "hash": "f8cb2f253c43d8d252165601c86db452425c42bd073b5fa2232b214151d79690",
+      "hash": "a9ff101742dc7f55d00c6c25d674bc4f8c48c09d6fd9ccaa04bd2bed43f80b91",
       "files": [
         "LegacySpire\\LegacySpire.dll",
         "LegacySpire\\LegacySpire.json",
@@ -482,8 +482,8 @@
       "folder_name": "LegacySpire",
       "mod_id": "LegacySpire",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.1.15_0f5ca936.zip",
-      "bundle_sha256": "0f5ca936f6b9c60b09ef5fb830b595aa4f80df621e8ef14d53ec60d42c1caf79"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.2.1_81109ae0.zip",
+      "bundle_sha256": "81109ae05e2760f98afc6aa78ed19ba888611969a5d544430b2e0b616f85616d"
     },
     {
       "mod_version_id": "ffd0f0c5-77ae-4aed-8c24-a9ff958558bb",
@@ -504,6 +504,6 @@
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-27T21:28:27.963675Z",
+  "updated_at": "2026-07-27T21:37:25.497921400Z",
   "public": false
 }
