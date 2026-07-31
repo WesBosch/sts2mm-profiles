@@ -1,7 +1,7 @@
 {
   "id": "87d70261-0174-4c2c-b060-fecf4a0bf1e8",
   "name": "Pages v0.109.1b",
-  "game_version": "0.109.1",
+  "game_version": "0.110.0",
   "created_by": "WesBosch",
   "mods": [
     {
@@ -280,11 +280,11 @@
       "bundle_sha256": "e9b3bd855c53ecbb9b9bde83eca9aff523b8e3012b12a919cbbdb40ec9ffc653"
     },
     {
-      "mod_version_id": "7fd7b139-8091-4504-89e2-5aa92e8c8684",
+      "mod_version_id": "5bce9df8-cbdd-485a-baaf-2de2b2b27fd0",
       "name": "RitsuLib",
-      "version": "0.4.64",
+      "version": "0.5.0",
       "source": "nexus:slaythespire2/mods/137",
-      "hash": "9f1960c0d57535eb553f6a4083f86d05abe1007529fe79c57f00cb045cc4be28",
+      "hash": "6a56e739f5ce1ff90d9f3e61ad51bc8c9505bf04a1699d4fed414ccb23f304e6",
       "files": [
         "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
         "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
@@ -298,6 +298,10 @@
         "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.dll",
         "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.pdb",
         "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.110.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.xml",
         "STS2-RitsuLib\\mod_manifest.json",
         "STS2-RitsuLib\\ritsulib-variants.manifest",
         "STS2-RitsuLib\\STS2-RitsuLib.dll",
@@ -309,8 +313,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.64_005bc98f.zip",
-      "bundle_sha256": "005bc98f57f20c6a5e50321802316af96f7302228f01dfe34c16f441a4adc240"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.0_0c792c82.zip",
+      "bundle_sha256": "0c792c82080c6836b1eb1176cdaa3615e88a77d24e8cfc2ddd0531a14312f5d3"
     },
     {
       "mod_version_id": "7f5ba0ca-5b5b-4fab-badc-cc56b99be2ff",
@@ -452,6 +456,6 @@
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-07-30T01:08:09.311158100Z",
+  "updated_at": "2026-07-31T06:15:36.912857500Z",
   "public": true
 }
