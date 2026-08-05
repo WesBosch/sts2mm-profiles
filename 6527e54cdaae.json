@@ -120,23 +120,6 @@
       "bundle_sha256": "d45d4eca8b27851c2a23df1777f0644dfc24f727e2e1fdb00da5e91e5444ccc7"
     },
     {
-      "mod_version_id": "860432b1-5587-439b-a24c-a8d48c82c351",
-      "name": "皮皮配置: ModConfig",
-      "version": "0.2.3",
-      "source": "nexus:slaythespire2/mods/27",
-      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
-      "files": [
-        "ModConfig\\ModConfig.dll",
-        "ModConfig\\ModConfig.json",
-        "ModConfig\\ModConfig.pck"
-      ],
-      "folder_name": "ModConfig",
-      "mod_id": "ModConfig",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_47ca1744.zip",
-      "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
-    },
-    {
       "mod_version_id": "08e5ee8d-eab3-486e-a5b4-11ff087f5e00",
       "name": "FairShare",
       "version": "v0.107.1.1",
@@ -366,9 +349,42 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/MultiEnchantmentMod_v2.5.2_b20d1812.zip",
       "bundle_sha256": "b20d181284172e1cc6dfe643dd085e8f8cc0d6d501297a172f787871019d6d18"
+    },
+    {
+      "mod_version_id": "e62b0cfc-e6d1-433f-8b57-c47021558cbf",
+      "name": "ModConfig RitsuLib Adapter",
+      "version": "0.2.3",
+      "source": "nexus:slaythespire2/mods/27",
+      "hash": "6fb9cf98d37f022117e939f0ce9ed65f83a9b05405b155b5d7c4a0e56231b696",
+      "files": [
+        "3749336345\\ModConfig.dll",
+        "3749336345\\mod_manifest.json"
+      ],
+      "folder_name": "3749336345",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/ModConfig_RitsuLib_Adapter_v0.2.3_17b1fc11.zip",
+      "bundle_sha256": "17b1fc1125a90aa310856a1dc95ed56e20d8e5a74b7d7105df2b783945f5e293"
+    },
+    {
+      "mod_version_id": "1cdb1908-5e3e-4cbc-b070-a003d305a495",
+      "name": "The Hermit",
+      "version": "v1.5.0",
+      "source": "nexus:slaythespire2/mods/1071",
+      "hash": "dca3ba4ff865cb52ee49117528cb4b263364fc22df05af8ffdf7ead959b1898a",
+      "files": [
+        "3747699604\\HermitMod.dll",
+        "3747699604\\HermitMod.json",
+        "3747699604\\HermitMod.pck"
+      ],
+      "folder_name": "3747699604",
+      "mod_id": "HermitMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/The_Hermit_v1.5.0_228a81b2.zip",
+      "bundle_sha256": "228a81b264c2c4a4ba11520fcc8601de9b68e44081e68ad2f16f96cbcc8c9fae"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-08-05T01:45:14.168462900Z",
+  "updated_at": "2026-08-05T02:22:31.690101700Z",
   "public": true
 }
