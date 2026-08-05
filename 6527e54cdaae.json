@@ -53,22 +53,6 @@
       "bundle_sha256": "593e31cddd367fc6b952bdba4c9951ae69041c1bb289f8d1433f5228c25fcf71"
     },
     {
-      "mod_version_id": "67e88cbc-417d-4c0a-ad9c-e0de801e49a7",
-      "name": "Relic Reward Choice",
-      "version": "1.7.8",
-      "source": "nexus:slaythespire2/mods/272",
-      "hash": "0eaf98eeddeead59f206851102f369492d95ca40d3bb0adffd2f6bbc9f8ca4db",
-      "files": [
-        "RelicRewardChoice\\RelicRewardChoice.dll",
-        "RelicRewardChoice\\RelicRewardChoice.json"
-      ],
-      "folder_name": "RelicRewardChoice",
-      "mod_id": "RelicRewardChoice",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.8_c55159dd.zip",
-      "bundle_sha256": "c55159dd6ebd45d8ad7cec4aa53bb06ae3b54841602a03de1368e1734c808386"
-    },
-    {
       "mod_version_id": "40f75c3e-c1dd-47c9-a400-858ad29c91fc",
       "name": "Unified Save Path",
       "version": "1.0.0",
@@ -370,20 +354,21 @@
       "bundle_sha256": "b20d181284172e1cc6dfe643dd085e8f8cc0d6d501297a172f787871019d6d18"
     },
     {
-      "mod_version_id": "e62b0cfc-e6d1-433f-8b57-c47021558cbf",
-      "name": "ModConfig RitsuLib Adapter",
+      "mod_version_id": "860432b1-5587-439b-a24c-a8d48c82c351",
+      "name": "皮皮配置: ModConfig",
       "version": "0.2.3",
-      "source": "nexus:slaythespire2/mods/27",
-      "hash": "6fb9cf98d37f022117e939f0ce9ed65f83a9b05405b155b5d7c4a0e56231b696",
+      "source": "github:xhyrzldf/ModConfig-STS2",
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
       "files": [
-        "3749336345\\ModConfig.dll",
-        "3749336345\\mod_manifest.json"
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
       ],
-      "folder_name": "3749336345",
+      "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/ModConfig_RitsuLib_Adapter_v0.2.3_17b1fc11.zip",
-      "bundle_sha256": "17b1fc1125a90aa310856a1dc95ed56e20d8e5a74b7d7105df2b783945f5e293"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_47ca1744.zip",
+      "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
     },
     {
       "mod_version_id": "1cdb1908-5e3e-4cbc-b070-a003d305a495",
@@ -553,9 +538,46 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/_v0.5.0_4b319e66.zip",
       "bundle_sha256": "4b319e6678c2c7d9a3750e085f23a16a8c25a16ce303de183ac0cc261f8780b9"
+    },
+    {
+      "mod_version_id": "b94a519b-c0bc-49f3-949a-f24162fb4a9e",
+      "name": "Relic Reward Choice",
+      "version": "1.7.11",
+      "source": "nexus:slaythespire2/mods/272",
+      "hash": "cb46711eb401ad794d915ed7267b646351411f584f888cf310234a3670932937",
+      "files": [
+        "3747675906\\RelicRewardChoice.dll",
+        "3747675906\\RelicRewardChoice.json",
+        "3747675906\\RelicRewardChoice.zip.disabled-20260805040719",
+        "3747675906\\RitsuModConfigAdapter.dll"
+      ],
+      "folder_name": "3747675906",
+      "mod_id": "RelicRewardChoice",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.11_74f7eb9b.zip",
+      "bundle_sha256": "74f7eb9b3e9a3b79496a75fc8716df227c57bc27dfd6de11915d323257baa77f"
+    },
+    {
+      "mod_version_id": "c778019b-be1d-4c02-bdce-b7de21c90fe8",
+      "name": "Relic Upgrades",
+      "version": "1.1.0",
+      "source": "nexus:slaythespire2/mods/1053",
+      "hash": "111579dea9979b31df94244208e779bf9b5950338cb7214a9ad27d356799b9ab",
+      "files": [
+        "3747676762\\RelicUpgrades.dll",
+        "3747676762\\RelicUpgrades.json",
+        "3747676762\\RelicUpgrades.pck",
+        "3747676762\\RelicUpgrades.zip",
+        "3747676762\\RitsuModConfigAdapter.dll"
+      ],
+      "folder_name": "3747676762",
+      "mod_id": "RelicUpgrades",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Relic_Upgrades_v1.1.0_8bc9738f.zip",
+      "bundle_sha256": "8bc9738f9c379ec53a838a9cd6e89f02b12da6c001f55bf8a289f26b798e172f"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-08-05T03:05:14.624043500Z",
+  "updated_at": "2026-08-05T04:05:00.217428300Z",
   "public": true
 }
