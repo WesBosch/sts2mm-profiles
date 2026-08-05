@@ -1,6 +1,6 @@
 {
   "id": "87d70261-0174-4c2c-b060-fecf4a0bf1e8",
-  "name": "Pages v0.109.1b",
+  "name": "Pages v0.110.1b",
   "game_version": "0.110.1",
   "created_by": "WesBosch",
   "mods": [
@@ -282,6 +282,25 @@
       "bundle_sha256": "6ffa104705b3babadff82a50f8923ba9af72004a42fc198038fcd34ef4c24dff"
     },
     {
+      "mod_version_id": "717199cd-3b8e-4366-8e3b-8c9bad6551c6",
+      "name": "AiACard-Multiplayer",
+      "version": "0.1.0",
+      "source": "github:BAKAOLC/STS2-AiACard-Multiplayer",
+      "hash": "7e2b3a18fa7b693f5750ea4e629607b72108349a77d5406c64352449875789a7",
+      "files": [
+        "STS2_AiACard_Multiplayer\\mod_manifest.json",
+        "STS2_AiACard_Multiplayer\\STS2_AiACard_Multiplayer.dll",
+        "STS2_AiACard_Multiplayer\\STS2_AiACard_Multiplayer.pck",
+        "STS2_AiACard_Multiplayer\\【必读】使用说明-2026-05-27.txt",
+        "STS2_AiACard_Multiplayer\\多人[2026.05.27版].jpg"
+      ],
+      "folder_name": "STS2_AiACard_Multiplayer",
+      "mod_id": "STS2_AiACard_Multiplayer",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/AiACard-Multiplayer_v0.1.0_cb837d07.zip",
+      "bundle_sha256": "cb837d07d7e3d025dee46037fddea814e1c9bd77991e74940fa65686c3998695"
+    },
+    {
       "mod_version_id": "3cc666f1-a971-426a-96be-9a3d6ff2d12b",
       "name": "更多的假遗物",
       "version": "1.0.4",
@@ -382,9 +401,161 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/The_Hermit_v1.5.0_228a81b2.zip",
       "bundle_sha256": "228a81b264c2c4a4ba11520fcc8601de9b68e44081e68ad2f16f96cbcc8c9fae"
+    },
+    {
+      "mod_version_id": "44a08e7c-d51e-42f9-a15a-a5b93a275121",
+      "name": "Better Mod Menu",
+      "version": "1.1.1",
+      "source": "nexus:slaythespire2/mods/178",
+      "hash": "be7ce424f7174e25140a35700d65aa6c58fcdac8937256d64d99f9c226e70839",
+      "files": [
+        "BetterModMenu\\BetterModMenu.dll",
+        "BetterModMenu\\BetterModMenu.json"
+      ],
+      "folder_name": "BetterModMenu",
+      "mod_id": "BetterModMenu",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v1.1.1_3b2723bd.zip",
+      "bundle_sha256": "3b2723bd5c144a153b7b3fd5bf05574afebe905c25afa7e61f1305cb074f040f"
+    },
+    {
+      "mod_version_id": "8378e9d8-9b4b-4e0f-b6af-c9d6415e68d6",
+      "name": "RitsuLib",
+      "version": "0.5.10",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "74f70d72c5a9b1d65e25fddbb70274b52b322dd2dcd16879a0f3be539c382250",
+      "files": [
+        "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.108.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.109.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.110.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\ritsulib-variants.manifest",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.Loader.pdb",
+        "STS2-RitsuLib\\viewer\\assets\\index.css",
+        "STS2-RitsuLib\\viewer\\assets\\index.js",
+        "STS2-RitsuLib\\viewer\\index.html"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.10_48e54f4f.zip",
+      "bundle_sha256": "48e54f4f4322a8b67bc9c7f4f49f770727920424b9e5d6be14179ddd88b526b8"
+    },
+    {
+      "mod_version_id": "b866b62b-ffb6-4f1c-80df-a42cdf7cf53e",
+      "name": "2868840",
+      "version": "unknown",
+      "source": null,
+      "hash": null,
+      "files": [
+        "2868840/.sts2mm-bundle.json",
+        "2868840/3770163208/ironclad_psa.spjson",
+        "2868840/3770163208/PerfectedStrikeAnime.dll",
+        "2868840/3770163208/PerfectedStrikeAnime.json",
+        "2868840/3770163208/pose_overlay.cfg",
+        "2868840/3770163208/pose_overlay.png",
+        "2868840/3771349866/CrashLandingAnime.dll",
+        "2868840/3771349866/CrashLandingAnime.json",
+        "2868840/3771349866/regent_cla.spjson",
+        "2868840/3772619739/bt_clock.png",
+        "2868840/3772619739/bt_icon.png",
+        "2868840/3772619739/bt_sfx_main.ogg",
+        "2868840/3772619739/bt_sfx_tail.ogg",
+        "2868840/3772619739/BulletTimeAnime.dll",
+        "2868840/3772619739/BulletTimeAnime.json",
+        "2868840/3773873081/VoltaicAnime.dll",
+        "2868840/3773873081/VoltaicAnime.json",
+        "2868840/3775606490/OstyAnime.dll",
+        "2868840/3775606490/OstyAnime.json",
+        "2868840/3775606490/osty_necro.spjson",
+        "2868840/3776811963/audio/tanx_roar1.ogg",
+        "2868840/3776811963/audio/tanx_roar2.ogg",
+        "2868840/3776811963/audio/tanx_whistle.ogg",
+        "2868840/3776811963/audio/tanx_wind.ogg",
+        "2868840/3776811963/feathers/feather_a.png",
+        "2868840/3776811963/feathers/feather_b.png",
+        "2868840/3776811963/feathers/feather_c.png",
+        "2868840/3776811963/feathers/feather_d.png",
+        "2868840/3776811963/feathers/feather_e.png",
+        "2868840/3776811963/feathers/petal_a.png",
+        "2868840/3776811963/feathers/petal_b.png",
+        "2868840/3776811963/tanx.atlas",
+        "2868840/3776811963/tanx.png",
+        "2868840/3776811963/tanx.spjson",
+        "2868840/3776811963/TanxAnime.dll",
+        "2868840/3776811963/TanxAnime.json",
+        "2868840/3776811963/tanx_tuning.cfg"
+      ],
+      "folder_name": "2868840",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/2868840_vunknown_1e160aaf.zip",
+      "bundle_sha256": "1e160aaf3e4d4ab1a4f445859cb0799522b6572c4ed4f496ed5bffd1fc728f2d",
+      "bundle_members": [
+        "Perfected Strike: As Depicted",
+        "Crash Landing: As Depicted",
+        "Bullet Time: As Depicted",
+        "Voltaic: As Depicted",
+        "Osty As Depicted",
+        "Whistle: As Depicted"
+      ],
+      "bundle_member_ids": [
+        "PerfectedStrikeAnime",
+        "CrashLandingAnime",
+        "BulletTimeAnime",
+        "VoltaicAnime",
+        "OstyAnime",
+        "TanxAnime"
+      ]
+    },
+    {
+      "mod_version_id": "c7d4bf5b-1528-4668-ab07-7d27b7794b8b",
+      "name": "BetterAnimation2",
+      "version": "0.3.0",
+      "source": null,
+      "hash": "b3713b04d89820ae0bd648a49967151e05c75e178d34ee824f9de7e53c4430e0",
+      "files": [
+        "3777276296\\BetterAnimation2.dll",
+        "3777276296\\BetterAnimation2.json",
+        "3777276296\\BetterAnimation2.pck"
+      ],
+      "folder_name": "3777276296",
+      "mod_id": "BetterAnimation2",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/BetterAnimation2_v0.3.0_88deeffa.zip",
+      "bundle_sha256": "88deeffa54cba2989bf33775b2b05b67f2fdbb6781b5513ad9a8eb228719ae06"
+    },
+    {
+      "mod_version_id": "406f9a1c-03c6-46ff-9a8c-27f6aef7ea9a",
+      "name": "保护队友",
+      "version": "0.5.0",
+      "source": null,
+      "hash": "d1f0ee533003b395c62884a3464084ee06ccadcb3b978c5ddb05c9ffb87deae5",
+      "files": [
+        "3773208979\\GuardAllies.dll",
+        "3773208979\\GuardAllies.json"
+      ],
+      "folder_name": "3773208979",
+      "mod_id": "GuardAllies",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/_v0.5.0_4b319e66.zip",
+      "bundle_sha256": "4b319e6678c2c7d9a3750e085f23a16a8c25a16ce303de183ac0cc261f8780b9"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-08-05T02:22:31.690101700Z",
+  "updated_at": "2026-08-05T03:05:14.624043500Z",
   "public": true
 }
