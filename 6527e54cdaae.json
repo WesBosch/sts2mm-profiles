@@ -1,7 +1,7 @@
 {
   "id": "87d70261-0174-4c2c-b060-fecf4a0bf1e8",
-  "name": "Pages v0.110.1b",
-  "game_version": "0.110.1",
+  "name": "Pages v0.111b",
+  "game_version": "0.111.0",
   "created_by": "WesBosch",
   "mods": [
     {
@@ -404,20 +404,17 @@
       "bundle_sha256": "3b2723bd5c144a153b7b3fd5bf05574afebe905c25afa7e61f1305cb074f040f"
     },
     {
-      "mod_version_id": "8378e9d8-9b4b-4e0f-b6af-c9d6415e68d6",
+      "mod_version_id": "f223223d-0126-46f3-b4ae-cedcb968d694",
       "name": "RitsuLib",
-      "version": "0.5.10",
+      "version": "0.5.12",
       "source": "github:BAKAOLC/STS2-RitsuLib",
-      "hash": "74f70d72c5a9b1d65e25fddbb70274b52b322dd2dcd16879a0f3be539c382250",
+      "hash": "b21a93e63179d9edd02a20b22083d029ebc545ce83682d5682efd88ba67e64c8",
       "files": [
         "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
         "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
         "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.pdb",
         "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.xml",
         "STS2-RitsuLib\\lib\\0.108.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.xml",
         "STS2-RitsuLib\\lib\\0.109.0\\compat-target.txt",
         "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.dll",
         "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.pdb",
@@ -426,6 +423,10 @@
         "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.dll",
         "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.pdb",
         "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.111.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.xml",
         "STS2-RitsuLib\\mod_manifest.json",
         "STS2-RitsuLib\\ritsulib-variants.manifest",
         "STS2-RitsuLib\\STS2-RitsuLib.dll",
@@ -437,8 +438,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.10_48e54f4f.zip",
-      "bundle_sha256": "48e54f4f4322a8b67bc9c7f4f49f770727920424b9e5d6be14179ddd88b526b8"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.12_e7a2b7fb.zip",
+      "bundle_sha256": "e7a2b7fbf14efd9eb7f721f1c4cb8d58eb30333de7607f1490a4436e301944ac"
     },
     {
       "mod_version_id": "b866b62b-ffb6-4f1c-80df-a42cdf7cf53e",
@@ -578,6 +579,6 @@
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-08-05T04:05:00.217428300Z",
+  "updated_at": "2026-08-15T02:48:20.969240800Z",
   "public": true
 }
