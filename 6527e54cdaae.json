@@ -5,6 +5,24 @@
   "created_by": "WesBosch",
   "mods": [
     {
+      "mod_version_id": "eac7e3e1-43a9-4148-8253-bd96a86ba106",
+      "name": "跨版本兼容性补丁",
+      "version": "v0.9.22",
+      "source": null,
+      "hash": "d8794ad474ddf8326833172640a7c1a945663463664225d3992cfd7f03824d9d",
+      "files": [
+        "3783150604\\CrossVersionCompat\\CrossVersionCompat.dll",
+        "3783150604\\CrossVersionCompat\\CrossVersionCompat.json",
+        "3783150604\\CrossVersionCompat\\CrossVersionCompat.version_profiles.json",
+        "3783150604\\CrossVersionCompat\\Mono.Cecil.dll"
+      ],
+      "folder_name": "CrossVersionCompat",
+      "mod_id": "CrossVersionCompat",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/_v0.9.22_c8a8cc98.zip",
+      "bundle_sha256": "c8a8cc98a558b1de067160568d927f480a29fd46df69b05c3f83adf0354829d5"
+    },
+    {
       "mod_version_id": "aef16678-1b4d-40f9-a021-b90e68235437",
       "name": "BaseLib",
       "version": "v3.4.5",
@@ -37,24 +55,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_3966fd23.zip",
       "bundle_sha256": "3966fd23813432cd907271accde25b335e4f2821308078bf85876ce2595365a9"
-    },
-    {
-      "mod_version_id": "eac7e3e1-43a9-4148-8253-bd96a86ba106",
-      "name": "跨版本兼容性补丁",
-      "version": "v0.9.22",
-      "source": null,
-      "hash": "d8794ad474ddf8326833172640a7c1a945663463664225d3992cfd7f03824d9d",
-      "files": [
-        "3783150604\\CrossVersionCompat\\CrossVersionCompat.dll",
-        "3783150604\\CrossVersionCompat\\CrossVersionCompat.json",
-        "3783150604\\CrossVersionCompat\\CrossVersionCompat.version_profiles.json",
-        "3783150604\\CrossVersionCompat\\Mono.Cecil.dll"
-      ],
-      "folder_name": "CrossVersionCompat",
-      "mod_id": "CrossVersionCompat",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/_v0.9.22_c8a8cc98.zip",
-      "bundle_sha256": "c8a8cc98a558b1de067160568d927f480a29fd46df69b05c3f83adf0354829d5"
     },
     {
       "mod_version_id": "50fb9025-2a0f-4565-9493-12fa68c17435",
@@ -251,25 +251,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Ancients_Awakened_v1.4.6_059f5abd.zip",
       "bundle_sha256": "059f5abdba4b249be97c2f734e88431380e1624d7e4756d61a1f0c97cae46a12"
-    },
-    {
-      "mod_version_id": "717199cd-3b8e-4366-8e3b-8c9bad6551c6",
-      "name": "AiACard-Multiplayer",
-      "version": "0.1.0",
-      "source": "github:BAKAOLC/STS2-AiACard-Multiplayer",
-      "hash": "7e2b3a18fa7b693f5750ea4e629607b72108349a77d5406c64352449875789a7",
-      "files": [
-        "STS2_AiACard_Multiplayer\\mod_manifest.json",
-        "STS2_AiACard_Multiplayer\\STS2_AiACard_Multiplayer.dll",
-        "STS2_AiACard_Multiplayer\\STS2_AiACard_Multiplayer.pck",
-        "STS2_AiACard_Multiplayer\\【必读】使用说明-2026-05-27.txt",
-        "STS2_AiACard_Multiplayer\\多人[2026.05.27版].jpg"
-      ],
-      "folder_name": "STS2_AiACard_Multiplayer",
-      "mod_id": "STS2_AiACard_Multiplayer",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/AiACard-Multiplayer_v0.1.0_cb837d07.zip",
-      "bundle_sha256": "cb837d07d7e3d025dee46037fddea814e1c9bd77991e74940fa65686c3998695"
     },
     {
       "mod_version_id": "3cc666f1-a971-426a-96be-9a3d6ff2d12b",
@@ -667,23 +648,6 @@
       "bundle_sha256": "3b2723bd5c144a153b7b3fd5bf05574afebe905c25afa7e61f1305cb074f040f"
     },
     {
-      "mod_version_id": "8e3f3d54-e778-42b2-a35b-21e25d273a6f",
-      "name": "魔理沙",
-      "version": "v0.7.21",
-      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747692822",
-      "hash": "bb221206388b1e74b2fd3c0e508e8824c18aa0f6c8776339bc38ba876e728dce",
-      "files": [
-        "3747692822\\Marisa.dll",
-        "3747692822\\Marisa.json",
-        "3747692822\\marisa.pck"
-      ],
-      "folder_name": "3747692822",
-      "mod_id": "Marisa",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/_v0.7.21_50f1c0ba.zip",
-      "bundle_sha256": "50f1c0ba541974615c0aad23b07f83795d1c089017babc69ef1a1818f6a707e5"
-    },
-    {
       "mod_version_id": "1f47c116-72fa-49df-ab3a-c82165c8525f",
       "name": "Yay, Cards!!",
       "version": "v2.1",
@@ -735,9 +699,43 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Chainsaw_Man_Ancients_v1.0.8_1f841c5e.zip",
       "bundle_sha256": "1f841c5e7b7c782fae5ba7d43a0a2ff50eb5f88aadf0734d6a00297194744083"
+    },
+    {
+      "mod_version_id": "53fbc78a-aab1-4835-b7cc-33b80243cb9a",
+      "name": "AiACard",
+      "version": "0.1.6",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747713380",
+      "hash": "519763d0883787453b7604ff37cd6eaf1129a46163bffa6bed085b979c2be5bd",
+      "files": [
+        "3747713380\\mod_manifest.json",
+        "3747713380\\STS2_AiACard.dll",
+        "3747713380\\STS2_AiACard.pck"
+      ],
+      "folder_name": "3747713380",
+      "mod_id": "STS2_AiACard",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/AiACard_v0.1.6_1001c280.zip",
+      "bundle_sha256": "1001c280e8a32e86a8de69834f9c50ba4a93109750fe0e42e586e8ac15162ee8"
+    },
+    {
+      "mod_version_id": "2bc2c72c-ea30-4326-a5ef-a86a5a4750a6",
+      "name": "AiACard-Multiplayer",
+      "version": "0.1.7-fix1",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747728448",
+      "hash": "4c1fe11699dd4ca572150ca1136918b41d66c6c39ca8875de898b4572ac629b7",
+      "files": [
+        "3747728448\\mod_manifest.json",
+        "3747728448\\STS2_AiACard_Multiplayer.dll",
+        "3747728448\\STS2_AiACard_Multiplayer.pck"
+      ],
+      "folder_name": "3747728448",
+      "mod_id": "STS2_AiACard_Multiplayer",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/AiACard-Multiplayer_v0.1.7-fix1_16b05d14.zip",
+      "bundle_sha256": "16b05d14329405eb411f428ad8054220fa5fdb87e658a609c025e8a9209165fa"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-08-18T05:58:59.316194800Z",
+  "updated_at": "2026-08-18T06:29:12.492909500Z",
   "public": true
 }
