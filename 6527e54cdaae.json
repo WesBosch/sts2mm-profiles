@@ -22,37 +22,6 @@
       "bundle_sha256": "4333b545694d181e782a39b60cba670afb1946f43b48ecbaa645f172c0ec9305"
     },
     {
-      "mod_version_id": "0dea64f6-4eaf-4f39-9c08-520eb1c3a870",
-      "name": "BetterSpire2",
-      "version": "v1.83.8",
-      "source": "nexus:slaythespire2/mods/2",
-      "hash": "cd785b008a28cdc37d335ba933a0cc8acc7842a05496da94295855106a3eab75",
-      "files": [
-        "BetterSpire2\\BetterSpire2.dll",
-        "BetterSpire2\\BetterSpire2.json",
-        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
-        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
-        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
-        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
-        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
-        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
-        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
-        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
-        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
-        "BetterSpire2\\BetterSpire2_localization\\README.txt",
-        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
-        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
-        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
-        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
-        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
-      ],
-      "folder_name": "BetterSpire2",
-      "mod_id": "BetterSpire2",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.8_593e31cd.zip",
-      "bundle_sha256": "593e31cddd367fc6b952bdba4c9951ae69041c1bb289f8d1433f5228c25fcf71"
-    },
-    {
       "mod_version_id": "40f75c3e-c1dd-47c9-a400-858ad29c91fc",
       "name": "Unified Save Path",
       "version": "1.0.0",
@@ -218,7 +187,7 @@
       "mod_version_id": "e1dd63cd-9309-431b-8ca7-c562c66faa55",
       "name": "More Upgrades",
       "version": "v1.1.0",
-      "source": null,
+      "source": "nexus:slaythespire2/mods/544",
       "hash": "1161d15b41ed09e0b5682b563546dde902f75d647cb1037835ca6298b4fbca47",
       "files": [
         "MoreUpgrades\\MoreUpgrades\\MoreUpgrades.cfg",
@@ -235,7 +204,7 @@
       "mod_version_id": "42a722a3-3f4d-4b44-bc74-05b89163ad42",
       "name": "Ancient Configs Plus",
       "version": "v1.1.4",
-      "source": null,
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747493112",
       "hash": "0923e2a4f09b68a65108c43a3231600f3434e381428d9069dd650ad903d7154a",
       "files": [
         "AncientConfigs\\AncientConfigsPlus.dll",
@@ -252,7 +221,7 @@
       "mod_version_id": "1a27122d-d90f-4354-a6e8-5202c13c0fc8",
       "name": "Ancients Awakened",
       "version": "v1.4.4",
-      "source": null,
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747492675",
       "hash": "0a5d2a4567bbc0dc2d5247e7f0a4d81ac5e27518a3880a94706b31f3554e90c1",
       "files": [
         "AncientsAwakened\\AncientsAwakened.dll",
@@ -338,6 +307,22 @@
       "bundle_sha256": "81109ae05e2760f98afc6aa78ed19ba888611969a5d544430b2e0b616f85616d"
     },
     {
+      "mod_version_id": "bab4055b-c961-4897-8ab4-6e3bf4320f88",
+      "name": "MultiEnchantmentMod",
+      "version": "v2.5.4",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747561525",
+      "hash": "6bdbebfef4941466519ec5fe40a063fca2f0f7ca9fc34566a307a3a91e23f9d8",
+      "files": [
+        "3747561525\\MultiEnchantmentMod\\MultiEnchantmentMod.dll",
+        "3747561525\\MultiEnchantmentMod\\MultiEnchantmentMod.json"
+      ],
+      "folder_name": "MultiEnchantmentMod",
+      "mod_id": "MultiEnchantmentMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/MultiEnchantmentMod_v2.5.4_fdee51b3.zip",
+      "bundle_sha256": "fdee51b31a9fd1f4e66fe5b22e8eb78c011d8c3c74f9aee2815337f03e849bbd"
+    },
+    {
       "mod_version_id": "860432b1-5587-439b-a24c-a8d48c82c351",
       "name": "皮皮配置: ModConfig",
       "version": "0.2.3",
@@ -388,33 +373,17 @@
       "bundle_sha256": "3b2723bd5c144a153b7b3fd5bf05574afebe905c25afa7e61f1305cb074f040f"
     },
     {
-      "mod_version_id": "f223223d-0126-46f3-b4ae-cedcb968d694",
-      "name": "RitsuLib",
-      "version": "0.5.12",
+      "mod_version_id": "83b79373-a197-4d48-8ccc-7237758fb61e",
+      "name": "RitsuLib (STS2 0.110.0 compat)",
+      "version": "0.5.13",
       "source": "github:BAKAOLC/STS2-RitsuLib",
-      "hash": "b21a93e63179d9edd02a20b22083d029ebc545ce83682d5682efd88ba67e64c8",
+      "hash": "020114d27e25704ad91b45cb771a65195218eb4159990c429676d5e5d304545f",
       "files": [
-        "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\lib\\0.108.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.109.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\lib\\0.110.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\lib\\0.111.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\compat-target.txt",
         "STS2-RitsuLib\\mod_manifest.json",
-        "STS2-RitsuLib\\ritsulib-variants.manifest",
         "STS2-RitsuLib\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\STS2-RitsuLib.Loader.pdb",
+        "STS2-RitsuLib\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\STS2-RitsuLib.xml",
         "STS2-RitsuLib\\viewer\\assets\\index.css",
         "STS2-RitsuLib\\viewer\\assets\\index.js",
         "STS2-RitsuLib\\viewer\\index.html"
@@ -422,14 +391,14 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.12_e7a2b7fb.zip",
-      "bundle_sha256": "e7a2b7fbf14efd9eb7f721f1c4cb8d58eb30333de7607f1490a4436e301944ac"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_110_0_compat._v0.5.13_fadefb52.zip",
+      "bundle_sha256": "fadefb5258675ec1212da2004d8909b3843a2a262d6212080cc718e14274755d"
     },
     {
       "mod_version_id": "b866b62b-ffb6-4f1c-80df-a42cdf7cf53e",
       "name": "2868840",
       "version": "unknown",
-      "source": null,
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3772619739",
       "hash": null,
       "files": [
         "2868840/.sts2mm-bundle.json",
@@ -495,7 +464,7 @@
       "mod_version_id": "c7d4bf5b-1528-4668-ab07-7d27b7794b8b",
       "name": "BetterAnimation2",
       "version": "0.3.0",
-      "source": null,
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3777276296",
       "hash": "b3713b04d89820ae0bd648a49967151e05c75e178d34ee824f9de7e53c4430e0",
       "files": [
         "3777276296\\BetterAnimation2.dll",
@@ -512,7 +481,7 @@
       "mod_version_id": "406f9a1c-03c6-46ff-9a8c-27f6aef7ea9a",
       "name": "保护队友",
       "version": "0.5.0",
-      "source": null,
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3773208979",
       "hash": "d1f0ee533003b395c62884a3464084ee06ccadcb3b978c5ddb05c9ffb87deae5",
       "files": [
         "3773208979\\GuardAllies.dll",
@@ -560,9 +529,42 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Relic_Upgrades_v1.1.0_8bc9738f.zip",
       "bundle_sha256": "8bc9738f9c379ec53a838a9cd6e89f02b12da6c001f55bf8a289f26b798e172f"
+    },
+    {
+      "mod_version_id": "5b91d814-e5f7-4932-867a-5df73da938c1",
+      "name": "Minty Spire 2",
+      "version": "v1.1.7",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3737336234",
+      "hash": "a2403a015d98657f16413c471da39ec23a5443244356eefaa12731a22735907a",
+      "files": [
+        "3737336234\\MintySpire2\\MintySpire2.dll",
+        "3737336234\\MintySpire2\\MintySpire2.json",
+        "3737336234\\MintySpire2\\MintySpire2.pck"
+      ],
+      "folder_name": "MintySpire2",
+      "mod_id": "MintySpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Minty_Spire_2_v1.1.7_a250795c.zip",
+      "bundle_sha256": "a250795ca035791a30307c44b8edfc792986a8e425018f558439012c3bb90370"
+    },
+    {
+      "mod_version_id": "c12aa042-a615-44bd-9709-73b08c772455",
+      "name": "Show Player Hand Cards",
+      "version": "0.6.3",
+      "source": "github:BAKAOLC/STS2-ShowPlayerHandCards",
+      "hash": "f57330653081d736eeac45d3c063209b5a5da0a2b2b07e51f749d9fd51f605de",
+      "files": [
+        "3747606660\\mod_manifest.json",
+        "3747606660\\STS2-ShowPlayerHandCards.dll"
+      ],
+      "folder_name": "3747606660",
+      "mod_id": "STS2-ShowPlayerHandCards",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Show_Player_Hand_Cards_v0.6.3_318f5588.zip",
+      "bundle_sha256": "318f5588c27e863305c6d0a5f1b64226223b7ea0745b00ff95ff880efd1754eb"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-08-15T03:05:03.977234100Z",
+  "updated_at": "2026-08-18T00:14:23.071808100Z",
   "public": true
 }
