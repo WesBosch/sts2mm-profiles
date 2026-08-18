@@ -5,21 +5,21 @@
   "created_by": "WesBosch",
   "mods": [
     {
-      "mod_version_id": "84418b6c-d0ce-4424-9583-e538432c13f3",
+      "mod_version_id": "aef16678-1b4d-40f9-a021-b90e68235437",
       "name": "BaseLib",
-      "version": "v3.4.3",
+      "version": "v3.4.5",
       "source": "github:Alchyr/BaseLib-StS2",
-      "hash": "9f9581f4f6b6a2ab0c744bdf73729e10df8ff2c07befbc184b6c65f010932e83",
+      "hash": "ad2f89e43e8b31debfab65d783353d9429eba59a2cfe904ff933a894ce79d32e",
       "files": [
-        "BaseLib\\BaseLib.dll",
-        "BaseLib\\BaseLib.json",
-        "BaseLib\\BaseLib.pck"
+        "3737335127\\BaseLib\\BaseLib.dll",
+        "3737335127\\BaseLib\\BaseLib.json",
+        "3737335127\\BaseLib\\BaseLib.pck"
       ],
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.3_4333b545.zip",
-      "bundle_sha256": "4333b545694d181e782a39b60cba670afb1946f43b48ecbaa645f172c0ec9305"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.5_7985e378.zip",
+      "bundle_sha256": "7985e3780fc387251de034bba50f15b08d90249f7178a487fa4fb9881b23f4bb"
     },
     {
       "mod_version_id": "40f75c3e-c1dd-47c9-a400-858ad29c91fc",
@@ -37,6 +37,24 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_3966fd23.zip",
       "bundle_sha256": "3966fd23813432cd907271accde25b335e4f2821308078bf85876ce2595365a9"
+    },
+    {
+      "mod_version_id": "eac7e3e1-43a9-4148-8253-bd96a86ba106",
+      "name": "跨版本兼容性补丁",
+      "version": "v0.9.22",
+      "source": null,
+      "hash": "d8794ad474ddf8326833172640a7c1a945663463664225d3992cfd7f03824d9d",
+      "files": [
+        "3783150604\\CrossVersionCompat\\CrossVersionCompat.dll",
+        "3783150604\\CrossVersionCompat\\CrossVersionCompat.json",
+        "3783150604\\CrossVersionCompat\\CrossVersionCompat.version_profiles.json",
+        "3783150604\\CrossVersionCompat\\Mono.Cecil.dll"
+      ],
+      "folder_name": "CrossVersionCompat",
+      "mod_id": "CrossVersionCompat",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/_v0.9.22_c8a8cc98.zip",
+      "bundle_sha256": "c8a8cc98a558b1de067160568d927f480a29fd46df69b05c3f83adf0354829d5"
     },
     {
       "mod_version_id": "50fb9025-2a0f-4565-9493-12fa68c17435",
@@ -717,27 +735,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Chainsaw_Man_Ancients_v1.0.8_1f841c5e.zip",
       "bundle_sha256": "1f841c5e7b7c782fae5ba7d43a0a2ff50eb5f88aadf0734d6a00297194744083"
-    },
-    {
-      "mod_version_id": "eac7e3e1-43a9-4148-8253-bd96a86ba106",
-      "name": "跨版本兼容性补丁",
-      "version": "v0.9.22",
-      "source": null,
-      "hash": "d8794ad474ddf8326833172640a7c1a945663463664225d3992cfd7f03824d9d",
-      "files": [
-        "3783150604\\CrossVersionCompat\\CrossVersionCompat.dll",
-        "3783150604\\CrossVersionCompat\\CrossVersionCompat.json",
-        "3783150604\\CrossVersionCompat\\CrossVersionCompat.version_profiles.json",
-        "3783150604\\CrossVersionCompat\\Mono.Cecil.dll"
-      ],
-      "folder_name": "CrossVersionCompat",
-      "mod_id": "CrossVersionCompat",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/_v0.9.22_c8a8cc98.zip",
-      "bundle_sha256": "c8a8cc98a558b1de067160568d927f480a29fd46df69b05c3f83adf0354829d5"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-08-18T05:51:20.709777900Z",
+  "updated_at": "2026-08-18T05:58:59.316194800Z",
   "public": true
 }
