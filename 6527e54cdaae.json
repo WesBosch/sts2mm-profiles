@@ -577,9 +577,79 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Show_Player_Hand_Cards_v0.6.3_318f5588.zip",
       "bundle_sha256": "318f5588c27e863305c6d0a5f1b64226223b7ea0745b00ff95ff880efd1754eb"
+    },
+    {
+      "mod_version_id": "e3162266-eae8-4bb4-98c1-b0baab124b34",
+      "name": "Hades Ancients",
+      "version": "v0.4.5",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747819202",
+      "hash": "c01e0d087a08cf3788fa12f6cd238a5083f3cde00bc596e0ae514f262dbbff3c",
+      "files": [
+        "3747819202\\HadesAncients\\HadesAncients.dll",
+        "3747819202\\HadesAncients\\HadesAncients.json",
+        "3747819202\\HadesAncients\\HadesAncients.pck"
+      ],
+      "folder_name": "HadesAncients",
+      "mod_id": "HadesAncients",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Hades_Ancients_v0.4.5_2c1023cc.zip",
+      "bundle_sha256": "2c1023cc0735cca571e7b23e06157329ef418b0e27378e6aeacd4ca6282e65f0"
+    },
+    {
+      "mod_version_id": "73d0cc76-c635-47e3-99b3-df30bfd8d69b",
+      "name": "Lovec's Vfx Lib",
+      "version": "v0.1.1",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3748964314",
+      "hash": "5b6033566ce2d3f5e7fdcbdcaded7a69e5c286334dc66ade4a464146efb891f7",
+      "files": [
+        "3748964314\\LovecsVfxLib.dll",
+        "3748964314\\LovecsVfxLib.json",
+        "3748964314\\LovecsVfxLib.pck",
+        "3748964314\\README.md"
+      ],
+      "folder_name": "3748964314",
+      "mod_id": "LovecsVfxLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Lovec_s_Vfx_Lib_v0.1.1_89b393af.zip",
+      "bundle_sha256": "89b393af2d8a3ffb23634c50578caea26e07567fef817030b24e08844d88e3c9"
+    },
+    {
+      "mod_version_id": "4816c57e-c8e4-4711-a47b-126f7f5a7459",
+      "name": "Sarakt the Celestial Sovereign",
+      "version": "v0.5.4",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3758992294",
+      "hash": "33ad78534188ade8a001d4129b4ddfe2aa95de09dcc5a7439529ee996add0d06",
+      "files": [
+        "3758992294\\README.md",
+        "3758992294\\SaraktTheCube.dll",
+        "3758992294\\SaraktTheCube.json",
+        "3758992294\\SaraktTheCube.pck"
+      ],
+      "folder_name": "3758992294",
+      "mod_id": "SaraktTheCube",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Sarakt_the_Celestial_Sovereign_v0.5.4_dceded18.zip",
+      "bundle_sha256": "dceded18ad811f6587d61f620e5c6ea615c9f71fff1a2d23757c6a03390df85b"
+    },
+    {
+      "mod_version_id": "061a0db2-b31d-4e1c-bdd7-9850ef664dc9",
+      "name": "ChooseTheAncient",
+      "version": "v1.3.3",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3779901482",
+      "hash": "32f5d08cbf2409860739ad5f972fc9af4432665b8b0fb26d6616c02524c29bce",
+      "files": [
+        "3779901482\\ChooseTheAncient.dll",
+        "3779901482\\ChooseTheAncient.json",
+        "3779901482\\ChooseTheAncient.pck"
+      ],
+      "folder_name": "3779901482",
+      "mod_id": "ChooseTheAncient",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/ChooseTheAncient_v1.3.3_96ce5a37.zip",
+      "bundle_sha256": "96ce5a375a9f2438d6192193a2f6bd931096f35a996737cbfb69be0bae22e48d"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-08-18T00:16:39.449662500Z",
+  "updated_at": "2026-08-18T00:40:20.475002100Z",
   "public": true
 }
