@@ -218,21 +218,21 @@
       "bundle_sha256": "cb48b25d7cc294ae781dcb1eaae444c50c19f51759724e817e14e9a573c5dd65"
     },
     {
-      "mod_version_id": "1a27122d-d90f-4354-a6e8-5202c13c0fc8",
+      "mod_version_id": "34407457-850c-47b1-8951-c4764bd67680",
       "name": "Ancients Awakened",
-      "version": "v1.4.4",
+      "version": "v1.4.6",
       "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747492675",
-      "hash": "0a5d2a4567bbc0dc2d5247e7f0a4d81ac5e27518a3880a94706b31f3554e90c1",
+      "hash": "87963bf63ea8a5d25201e1bb09379238191bd896e503227e4b13657850938fae",
       "files": [
-        "AncientsAwakened\\AncientsAwakened.dll",
-        "AncientsAwakened\\AncientsAwakened.json",
-        "AncientsAwakened\\AncientsAwakened.pck"
+        "3747492675\\AncientsAwakened.dll",
+        "3747492675\\AncientsAwakened.json",
+        "3747492675\\AncientsAwakened.pck"
       ],
-      "folder_name": "AncientsAwakened",
+      "folder_name": "3747492675",
       "mod_id": "AncientsAwakened",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Ancients_Awakened_v1.4.4_6ffa1047.zip",
-      "bundle_sha256": "6ffa104705b3babadff82a50f8923ba9af72004a42fc198038fcd34ef4c24dff"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Ancients_Awakened_v1.4.6_059f5abd.zip",
+      "bundle_sha256": "059f5abdba4b249be97c2f734e88431380e1624d7e4756d61a1f0c97cae46a12"
     },
     {
       "mod_version_id": "717199cd-3b8e-4366-8e3b-8c9bad6551c6",
@@ -355,59 +355,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/The_Hermit_v1.5.0_228a81b2.zip",
       "bundle_sha256": "228a81b264c2c4a4ba11520fcc8601de9b68e44081e68ad2f16f96cbcc8c9fae"
-    },
-    {
-      "mod_version_id": "44a08e7c-d51e-42f9-a15a-a5b93a275121",
-      "name": "Better Mod Menu",
-      "version": "1.1.1",
-      "source": "nexus:slaythespire2/mods/178",
-      "hash": "be7ce424f7174e25140a35700d65aa6c58fcdac8937256d64d99f9c226e70839",
-      "files": [
-        "BetterModMenu\\BetterModMenu.dll",
-        "BetterModMenu\\BetterModMenu.json"
-      ],
-      "folder_name": "BetterModMenu",
-      "mod_id": "BetterModMenu",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v1.1.1_3b2723bd.zip",
-      "bundle_sha256": "3b2723bd5c144a153b7b3fd5bf05574afebe905c25afa7e61f1305cb074f040f"
-    },
-    {
-      "mod_version_id": "fc4a533b-d089-47dd-922b-488b36a5f507",
-      "name": "RitsuLib",
-      "version": "0.5.13",
-      "source": "github:BAKAOLC/STS2-RitsuLib",
-      "hash": "d19b2dd74f6745581208d13f23e97f61ac448324aeeb1a008f15b3b779687baf",
-      "files": [
-        "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\lib\\0.109.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\lib\\0.110.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\lib\\0.111.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\mod_manifest.json",
-        "STS2-RitsuLib\\ritsulib-variants.manifest",
-        "STS2-RitsuLib\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\STS2-RitsuLib.Loader.pdb",
-        "STS2-RitsuLib\\viewer\\assets\\index.css",
-        "STS2-RitsuLib\\viewer\\assets\\index.js",
-        "STS2-RitsuLib\\viewer\\index.html"
-      ],
-      "folder_name": "STS2-RitsuLib",
-      "mod_id": "STS2-RitsuLib",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.13_0b17880c.zip",
-      "bundle_sha256": "0b17880c73c6f14032b0c768844fbd0a528a93f4f3d20216bb96640343146e0f"
     },
     {
       "mod_version_id": "b866b62b-ffb6-4f1c-80df-a42cdf7cf53e",
@@ -566,7 +513,7 @@
       "mod_version_id": "c12aa042-a615-44bd-9709-73b08c772455",
       "name": "Show Player Hand Cards",
       "version": "0.6.3",
-      "source": "github:BAKAOLC/STS2-ShowPlayerHandCards",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747606660",
       "hash": "f57330653081d736eeac45d3c063209b5a5da0a2b2b07e51f749d9fd51f605de",
       "files": [
         "3747606660\\mod_manifest.json",
@@ -647,9 +594,150 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/ChooseTheAncient_v1.3.3_96ce5a37.zip",
       "bundle_sha256": "96ce5a375a9f2438d6192193a2f6bd931096f35a996737cbfb69be0bae22e48d"
+    },
+    {
+      "mod_version_id": "fc4a533b-d089-47dd-922b-488b36a5f507",
+      "name": "RitsuLib",
+      "version": "0.5.13",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "d19b2dd74f6745581208d13f23e97f61ac448324aeeb1a008f15b3b779687baf",
+      "files": [
+        "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.109.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.110.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.111.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\ritsulib-variants.manifest",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.Loader.pdb",
+        "STS2-RitsuLib\\viewer\\assets\\index.css",
+        "STS2-RitsuLib\\viewer\\assets\\index.js",
+        "STS2-RitsuLib\\viewer\\index.html"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.13_0b17880c.zip",
+      "bundle_sha256": "0b17880c73c6f14032b0c768844fbd0a528a93f4f3d20216bb96640343146e0f"
+    },
+    {
+      "mod_version_id": "44a08e7c-d51e-42f9-a15a-a5b93a275121",
+      "name": "Better Mod Menu",
+      "version": "1.1.1",
+      "source": "nexus:slaythespire2/mods/178",
+      "hash": "be7ce424f7174e25140a35700d65aa6c58fcdac8937256d64d99f9c226e70839",
+      "files": [
+        "BetterModMenu\\BetterModMenu.dll",
+        "BetterModMenu\\BetterModMenu.json"
+      ],
+      "folder_name": "BetterModMenu",
+      "mod_id": "BetterModMenu",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v1.1.1_3b2723bd.zip",
+      "bundle_sha256": "3b2723bd5c144a153b7b3fd5bf05574afebe905c25afa7e61f1305cb074f040f"
+    },
+    {
+      "mod_version_id": "8e3f3d54-e778-42b2-a35b-21e25d273a6f",
+      "name": "魔理沙",
+      "version": "v0.7.21",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747692822",
+      "hash": "bb221206388b1e74b2fd3c0e508e8824c18aa0f6c8776339bc38ba876e728dce",
+      "files": [
+        "3747692822\\Marisa.dll",
+        "3747692822\\Marisa.json",
+        "3747692822\\marisa.pck"
+      ],
+      "folder_name": "3747692822",
+      "mod_id": "Marisa",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/_v0.7.21_50f1c0ba.zip",
+      "bundle_sha256": "50f1c0ba541974615c0aad23b07f83795d1c089017babc69ef1a1818f6a707e5"
+    },
+    {
+      "mod_version_id": "1f47c116-72fa-49df-ab3a-c82165c8525f",
+      "name": "Yay, Cards!!",
+      "version": "v2.1",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3771106911",
+      "hash": "d10a4e659a600ebad7454755ec6c293d8d989dfc9623f1ceecbe2c86e2340c67",
+      "files": [
+        "3771106911\\yaycards.dll",
+        "3771106911\\yaycards.json",
+        "3771106911\\yaycards.pck",
+        "3771106911\\yaycards.pdb"
+      ],
+      "folder_name": "3771106911",
+      "mod_id": "yaycards",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Yay._Cards._v2.1_1cad00b8.zip",
+      "bundle_sha256": "1cad00b863f1035049967a613df30783911505f90da2f2cd074798a78c798acf"
+    },
+    {
+      "mod_version_id": "137f7ff9-a2d6-4587-b898-c515a228b97b",
+      "name": "Jimbo Ancient",
+      "version": "v1.0.0",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3784035988",
+      "hash": "fe4475c8fd1dd8ce8304097a45c1e55071df8350318eae192749d9794d56a8a7",
+      "files": [
+        "3784035988\\JimboAncient.dll",
+        "3784035988\\JimboAncient.json",
+        "3784035988\\JimboAncient.pck",
+        "3784035988\\JimboAncient.pdb"
+      ],
+      "folder_name": "3784035988",
+      "mod_id": "JimboAncient",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Jimbo_Ancient_v1.0.0_819ea6c5.zip",
+      "bundle_sha256": "819ea6c5a2a1ef5be0712d7fdb2e25e04373b4000896e42ecc3aa9d42e58c96d"
+    },
+    {
+      "mod_version_id": "1056f0b4-0ff0-4c32-a5ac-6c475b69dc17",
+      "name": "Chainsaw Man Ancients",
+      "version": "v1.0.8",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3761586176",
+      "hash": "b0e5efa83f036d5a438d75d64cfe7d3bea6a8313f3cf30362cc24f91a4673591",
+      "files": [
+        "3761586176\\CSM.dll",
+        "3761586176\\CSM.json",
+        "3761586176\\CSM.pck"
+      ],
+      "folder_name": "3761586176",
+      "mod_id": "CSM",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Chainsaw_Man_Ancients_v1.0.8_1f841c5e.zip",
+      "bundle_sha256": "1f841c5e7b7c782fae5ba7d43a0a2ff50eb5f88aadf0734d6a00297194744083"
+    },
+    {
+      "mod_version_id": "eac7e3e1-43a9-4148-8253-bd96a86ba106",
+      "name": "跨版本兼容性补丁",
+      "version": "v0.9.22",
+      "source": null,
+      "hash": "d8794ad474ddf8326833172640a7c1a945663463664225d3992cfd7f03824d9d",
+      "files": [
+        "3783150604\\CrossVersionCompat\\CrossVersionCompat.dll",
+        "3783150604\\CrossVersionCompat\\CrossVersionCompat.json",
+        "3783150604\\CrossVersionCompat\\CrossVersionCompat.version_profiles.json",
+        "3783150604\\CrossVersionCompat\\Mono.Cecil.dll"
+      ],
+      "folder_name": "CrossVersionCompat",
+      "mod_id": "CrossVersionCompat",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/_v0.9.22_c8a8cc98.zip",
+      "bundle_sha256": "c8a8cc98a558b1de067160568d927f480a29fd46df69b05c3f83adf0354829d5"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-08-18T00:40:20.475002100Z",
+  "updated_at": "2026-08-18T05:51:20.709777900Z",
   "public": true
 }
