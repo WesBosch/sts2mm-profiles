@@ -587,23 +587,6 @@
       "bundle_sha256": "819ea6c5a2a1ef5be0712d7fdb2e25e04373b4000896e42ecc3aa9d42e58c96d"
     },
     {
-      "mod_version_id": "1056f0b4-0ff0-4c32-a5ac-6c475b69dc17",
-      "name": "Chainsaw Man Ancients",
-      "version": "v1.0.8",
-      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3761586176",
-      "hash": "b0e5efa83f036d5a438d75d64cfe7d3bea6a8313f3cf30362cc24f91a4673591",
-      "files": [
-        "3761586176\\CSM.dll",
-        "3761586176\\CSM.json",
-        "3761586176\\CSM.pck"
-      ],
-      "folder_name": "3761586176",
-      "mod_id": "CSM",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Chainsaw_Man_Ancients_v1.0.8_1f841c5e.zip",
-      "bundle_sha256": "1f841c5e7b7c782fae5ba7d43a0a2ff50eb5f88aadf0734d6a00297194744083"
-    },
-    {
       "mod_version_id": "53fbc78a-aab1-4835-b7cc-33b80243cb9a",
       "name": "AiACard",
       "version": "0.1.6",
@@ -655,6 +638,6 @@
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-08-19T03:48:27.509953500Z",
+  "updated_at": "2026-08-19T04:20:42.006071100Z",
   "public": true
 }
