@@ -5,24 +5,6 @@
   "created_by": "WesBosch",
   "mods": [
     {
-      "mod_version_id": "eac7e3e1-43a9-4148-8253-bd96a86ba106",
-      "name": "跨版本兼容性补丁",
-      "version": "v0.9.22",
-      "source": null,
-      "hash": "d8794ad474ddf8326833172640a7c1a945663463664225d3992cfd7f03824d9d",
-      "files": [
-        "3783150604\\CrossVersionCompat\\CrossVersionCompat.dll",
-        "3783150604\\CrossVersionCompat\\CrossVersionCompat.json",
-        "3783150604\\CrossVersionCompat\\CrossVersionCompat.version_profiles.json",
-        "3783150604\\CrossVersionCompat\\Mono.Cecil.dll"
-      ],
-      "folder_name": "CrossVersionCompat",
-      "mod_id": "CrossVersionCompat",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/_v0.9.22_c8a8cc98.zip",
-      "bundle_sha256": "c8a8cc98a558b1de067160568d927f480a29fd46df69b05c3f83adf0354829d5"
-    },
-    {
       "mod_version_id": "aef16678-1b4d-40f9-a021-b90e68235437",
       "name": "BaseLib",
       "version": "v3.4.5",
@@ -137,33 +119,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Party_Signals_-_Automatic_Card_Callouts_v1.0.6_75ab4dac.zip",
       "bundle_sha256": "75ab4dac613862dfb9fb904dc8ce765ad6c4fa86a39d9a1a44317ba626057898"
-    },
-    {
-      "mod_version_id": "2f8d25f5-d2e6-4d0c-939c-76e475947130",
-      "name": "Draw Anywhere",
-      "version": "0.3.0",
-      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3759606563",
-      "hash": "a699905a718c5f3e4501898c323f7a7cc353d516028030c2af1c147ae1986b9c",
-      "files": [
-        "3759606563\\DrawAnywhere.dll",
-        "3759606563\\DrawAnywhere.json",
-        "3759606563\\eye_closed.png",
-        "3759606563\\eye_closed_glow.png",
-        "3759606563\\eye_open.png",
-        "3759606563\\eye_open_glow.png",
-        "3759606563\\locales\\deu.json",
-        "3759606563\\locales\\eng.json",
-        "3759606563\\locales\\fra.json",
-        "3759606563\\locales\\jpn.json",
-        "3759606563\\locales\\kor.json",
-        "3759606563\\locales\\rus.json",
-        "3759606563\\locales\\zhs.json"
-      ],
-      "folder_name": "3759606563",
-      "mod_id": "drawanywhere",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Draw_Anywhere_v0.3.0_435d4591.zip",
-      "bundle_sha256": "435d45911b4220dc21a7f3d24cf7817611c1e2389fa375b1297e46fa70480d64"
     },
     {
       "mod_version_id": "bea1e22d-5679-4951-820b-c24951a16881",
@@ -614,24 +569,6 @@
       "bundle_sha256": "3b2723bd5c144a153b7b3fd5bf05574afebe905c25afa7e61f1305cb074f040f"
     },
     {
-      "mod_version_id": "1f47c116-72fa-49df-ab3a-c82165c8525f",
-      "name": "Yay, Cards!!",
-      "version": "v2.1",
-      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3771106911",
-      "hash": "d10a4e659a600ebad7454755ec6c293d8d989dfc9623f1ceecbe2c86e2340c67",
-      "files": [
-        "3771106911\\yaycards.dll",
-        "3771106911\\yaycards.json",
-        "3771106911\\yaycards.pck",
-        "3771106911\\yaycards.pdb"
-      ],
-      "folder_name": "3771106911",
-      "mod_id": "yaycards",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Yay._Cards._v2.1_1cad00b8.zip",
-      "bundle_sha256": "1cad00b863f1035049967a613df30783911505f90da2f2cd074798a78c798acf"
-    },
-    {
       "mod_version_id": "137f7ff9-a2d6-4587-b898-c515a228b97b",
       "name": "Jimbo Ancient",
       "version": "v1.0.0",
@@ -718,6 +655,6 @@
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-08-18T06:32:10.839946800Z",
+  "updated_at": "2026-08-19T03:48:27.509953500Z",
   "public": true
 }
