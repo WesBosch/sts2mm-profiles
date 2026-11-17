@@ -159,40 +159,6 @@
       "bundle_sha256": "e8718f23f70b48c3641435adb6afe6a87126e3a61521ecfe0e1d450c32dabe22"
     },
     {
-      "mod_version_id": "42a722a3-3f4d-4b44-bc74-05b89163ad42",
-      "name": "Ancient Configs Plus",
-      "version": "v1.1.4",
-      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747493112",
-      "hash": "0923e2a4f09b68a65108c43a3231600f3434e381428d9069dd650ad903d7154a",
-      "files": [
-        "AncientConfigs\\AncientConfigsPlus.dll",
-        "AncientConfigs\\AncientConfigsPlus.json",
-        "AncientConfigs\\AncientConfigsPlus.pck"
-      ],
-      "folder_name": "AncientConfigs",
-      "mod_id": "AncientConfigsPlus",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Ancient_Configs_Plus_v1.1.4_cb48b25d.zip",
-      "bundle_sha256": "cb48b25d7cc294ae781dcb1eaae444c50c19f51759724e817e14e9a573c5dd65"
-    },
-    {
-      "mod_version_id": "34407457-850c-47b1-8951-c4764bd67680",
-      "name": "Ancients Awakened",
-      "version": "v1.4.6",
-      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747492675",
-      "hash": "87963bf63ea8a5d25201e1bb09379238191bd896e503227e4b13657850938fae",
-      "files": [
-        "3747492675\\AncientsAwakened.dll",
-        "3747492675\\AncientsAwakened.json",
-        "3747492675\\AncientsAwakened.pck"
-      ],
-      "folder_name": "3747492675",
-      "mod_id": "AncientsAwakened",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Ancients_Awakened_v1.4.6_059f5abd.zip",
-      "bundle_sha256": "059f5abdba4b249be97c2f734e88431380e1624d7e4756d61a1f0c97cae46a12"
-    },
-    {
       "mod_version_id": "0c65b8c1-dada-45ec-bb58-f5d6d3622602",
       "name": "CampfireTrade",
       "version": "v0.1.1",
@@ -415,23 +381,6 @@
       "bundle_sha256": "318f5588c27e863305c6d0a5f1b64226223b7ea0745b00ff95ff880efd1754eb"
     },
     {
-      "mod_version_id": "e3162266-eae8-4bb4-98c1-b0baab124b34",
-      "name": "Hades Ancients",
-      "version": "v0.4.5",
-      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747819202",
-      "hash": "c01e0d087a08cf3788fa12f6cd238a5083f3cde00bc596e0ae514f262dbbff3c",
-      "files": [
-        "3747819202\\HadesAncients\\HadesAncients.dll",
-        "3747819202\\HadesAncients\\HadesAncients.json",
-        "3747819202\\HadesAncients\\HadesAncients.pck"
-      ],
-      "folder_name": "HadesAncients",
-      "mod_id": "HadesAncients",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Hades_Ancients_v0.4.5_2c1023cc.zip",
-      "bundle_sha256": "2c1023cc0735cca571e7b23e06157329ef418b0e27378e6aeacd4ca6282e65f0"
-    },
-    {
       "mod_version_id": "73d0cc76-c635-47e3-99b3-df30bfd8d69b",
       "name": "Lovec's Vfx Lib",
       "version": "v0.1.1",
@@ -448,41 +397,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Lovec_s_Vfx_Lib_v0.1.1_89b393af.zip",
       "bundle_sha256": "89b393af2d8a3ffb23634c50578caea26e07567fef817030b24e08844d88e3c9"
-    },
-    {
-      "mod_version_id": "4816c57e-c8e4-4711-a47b-126f7f5a7459",
-      "name": "Sarakt the Celestial Sovereign",
-      "version": "v0.5.4",
-      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3758992294",
-      "hash": "33ad78534188ade8a001d4129b4ddfe2aa95de09dcc5a7439529ee996add0d06",
-      "files": [
-        "3758992294\\README.md",
-        "3758992294\\SaraktTheCube.dll",
-        "3758992294\\SaraktTheCube.json",
-        "3758992294\\SaraktTheCube.pck"
-      ],
-      "folder_name": "3758992294",
-      "mod_id": "SaraktTheCube",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Sarakt_the_Celestial_Sovereign_v0.5.4_dceded18.zip",
-      "bundle_sha256": "dceded18ad811f6587d61f620e5c6ea615c9f71fff1a2d23757c6a03390df85b"
-    },
-    {
-      "mod_version_id": "431f6501-fc75-418c-8e01-db3325630869",
-      "name": "ChooseTheAncient",
-      "version": "v1.4.0",
-      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3779901482",
-      "hash": "ffd0a56d2dfee64cd43ec7f252adabe969aa45a49db6d5a82a41b04590fd8311",
-      "files": [
-        "3779901482\\ChooseTheAncient.dll",
-        "3779901482\\ChooseTheAncient.json",
-        "3779901482\\ChooseTheAncient.pck"
-      ],
-      "folder_name": "3779901482",
-      "mod_id": "ChooseTheAncient",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/ChooseTheAncient_v1.4.0_22229687.zip",
-      "bundle_sha256": "22229687af0c913faf7fa216fab494fbf6f097022e72b5272099d07305bbdea1"
     },
     {
       "mod_version_id": "d82dbdc4-7458-4d98-9c70-f46dac825f34",
@@ -1321,27 +1235,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/_v1.0.0-beta.111.0_ca56e0e7.zip",
       "bundle_sha256": "ca56e0e779db5f3d1c6f7c5c6339bbdc6b1379fb5760837015db2105b82cc393"
-    },
-    {
-      "mod_version_id": "0760a3c7-83c0-4b80-a586-1dc4cc6315b6",
-      "name": "Jimbo Ancient",
-      "version": "v1.1.3",
-      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3784035988",
-      "hash": "4e2c76b9da57d02d5ffc66b2ff5cdb564b73f1cd0decb2b4406580b055034bbb",
-      "files": [
-        "3784035988\\JimboAncient.dll",
-        "3784035988\\JimboAncient.json",
-        "3784035988\\JimboAncient.pck",
-        "3784035988\\JimboAncient.pdb"
-      ],
-      "folder_name": "3784035988",
-      "mod_id": "JimboAncient",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Jimbo_Ancient_v1.1.3_d37434ac.zip",
-      "bundle_sha256": "d37434acd2f173eba6d3fc5e723f4e5098f5b9187fc50c2dccc42f9f8628cabb"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-11-17T04:23:35.394264700Z",
+  "updated_at": "2026-11-17T04:27:23.781336300Z",
   "public": true
 }
