@@ -315,22 +315,6 @@
       "bundle_sha256": "89b393af2d8a3ffb23634c50578caea26e07567fef817030b24e08844d88e3c9"
     },
     {
-      "mod_version_id": "d82dbdc4-7458-4d98-9c70-f46dac825f34",
-      "name": "Better Mod Menu",
-      "version": "1.1.5",
-      "source": "nexus:slaythespire2/mods/178",
-      "hash": "27356a148c6112e9a5b888f7bcefd44aea773b313643344d3df3a04bd9539b98",
-      "files": [
-        "BetterModMenu\\BetterModMenu.dll",
-        "BetterModMenu\\BetterModMenu.json"
-      ],
-      "folder_name": "BetterModMenu",
-      "mod_id": "BetterModMenu",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v1.1.5_4a10e42e.zip",
-      "bundle_sha256": "4a10e42e17f3cac66849ce769fe3507875de698402e24b7441eb59356b271c22"
-    },
-    {
       "mod_version_id": "53fbc78a-aab1-4835-b7cc-33b80243cb9a",
       "name": "AiACard",
       "version": "0.1.6",
@@ -363,22 +347,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/AiACard-Multiplayer_v0.1.7-fix1_16b05d14.zip",
       "bundle_sha256": "16b05d14329405eb411f428ad8054220fa5fdb87e658a609c025e8a9209165fa"
-    },
-    {
-      "mod_version_id": "bab4055b-c961-4897-8ab4-6e3bf4320f88",
-      "name": "MultiEnchantmentMod",
-      "version": "v2.5.4",
-      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747561525",
-      "hash": "6bdbebfef4941466519ec5fe40a063fca2f0f7ca9fc34566a307a3a91e23f9d8",
-      "files": [
-        "3747561525\\MultiEnchantmentMod\\MultiEnchantmentMod.dll",
-        "3747561525\\MultiEnchantmentMod\\MultiEnchantmentMod.json"
-      ],
-      "folder_name": "MultiEnchantmentMod",
-      "mod_id": "MultiEnchantmentMod",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/MultiEnchantmentMod_v2.5.4_fdee51b3.zip",
-      "bundle_sha256": "fdee51b31a9fd1f4e66fe5b22e8eb78c011d8c3c74f9aee2815337f03e849bbd"
     },
     {
       "mod_version_id": "42222a32-7a01-4dea-8e55-8ea77d313098",
@@ -1062,11 +1030,11 @@
       "bundle_sha256": "db354244a5d5f6875a07a3917cebaf0f9abe7a56c6ad94305762f305bc98b47d"
     },
     {
-      "mod_version_id": "7c34b8b1-9ca1-445a-9eb0-bff373aa7eda",
+      "mod_version_id": "044407ee-b387-4172-a481-77498817a519",
       "name": "RitsuLib",
-      "version": "0.6.15",
+      "version": "0.6.16",
       "source": "github:BAKAOLC/STS2-RitsuLib",
-      "hash": "96f0c122e2923220f7d15971208d89a7d83ec18326329e51145db669a24fd125",
+      "hash": "e7a2b79771e8056900265d5d0b807b1708cb4a0e2a1b3a666c13cffa87027d81",
       "files": [
         "STS2-RitsuLib\\assets.zip",
         "STS2-RitsuLib\\compat\\0.107.1\\compat-target.txt",
@@ -1090,6 +1058,13 @@
         "STS2-RitsuLib\\compat\\0.113.0\\STS2-RitsuLib.Runtime.pdb",
         "STS2-RitsuLib\\compat\\0.113.0\\STS2-RitsuLib.Runtime.xml",
         "STS2-RitsuLib\\compat\\0.113.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\compat\\0.114.0\\compat-target.txt",
+        "STS2-RitsuLib\\compat\\0.114.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\compat\\0.114.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\compat\\0.114.0\\STS2-RitsuLib.Runtime.dll",
+        "STS2-RitsuLib\\compat\\0.114.0\\STS2-RitsuLib.Runtime.pdb",
+        "STS2-RitsuLib\\compat\\0.114.0\\STS2-RitsuLib.Runtime.xml",
+        "STS2-RitsuLib\\compat\\0.114.0\\STS2-RitsuLib.xml",
         "STS2-RitsuLib\\mod_manifest.json",
         "STS2-RitsuLib\\ritsulib-variants.manifest",
         "STS2-RitsuLib\\RitsuLib.References.props",
@@ -1110,30 +1085,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.6.15_8819fd67.zip",
-      "bundle_sha256": "8819fd677fb40220b810053be2edd45489493a77e8ff32cf926eb04b17a63e57"
-    },
-    {
-      "mod_version_id": "6c5687a7-7392-47a1-a178-3177a2f8f96e",
-      "name": "CVC-跨版本兼容补丁",
-      "version": "v0.10.0",
-      "source": null,
-      "hash": "cb48df484640029f4cb9d4270e43be5cfb7a47c587204a4c5493fc15467e5750",
-      "files": [
-        "3783150604\\CrossVersionCompat\\CrossVersionCompat.dll",
-        "3783150604\\CrossVersionCompat\\CrossVersionCompat.json",
-        "3783150604\\CrossVersionCompat\\CrossVersionCompat.Payload.0110.dll",
-        "3783150604\\CrossVersionCompat\\CrossVersionCompat.Payload.0111.dll",
-        "3783150604\\CrossVersionCompat\\CrossVersionCompat.Payload.0113.dll",
-        "3783150604\\CrossVersionCompat\\CrossVersionCompat.Payload.dll",
-        "3783150604\\CrossVersionCompat\\CrossVersionCompat.Rules.dll",
-        "3783150604\\CrossVersionCompat\\Mono.Cecil.dll"
-      ],
-      "folder_name": "CrossVersionCompat",
-      "mod_id": "CrossVersionCompat",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/CVC-._v0.10.0_92504005.zip",
-      "bundle_sha256": "92504005ab7b769335d1a3f40b87d76e1a4043bfaa46554dcbc0e6725a286d53"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.6.16_153bebdd.zip",
+      "bundle_sha256": "153bebdd3bc037ec9822ecc6769701583e1080fa95b24f93d1fe4d4d8bcd5f88"
     },
     {
       "mod_version_id": "88d3db9e-01de-4f2f-ba17-9a468e4eb616",
@@ -1234,9 +1187,114 @@
       "enabled": true,
       "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Multiplayer_Limit_Break_v0.3.2_2e40c771.zip",
       "bundle_sha256": "2e40c771808c5e64119f80dfb8eb63d71f038dbd47dacf8788c9c2fc224e351b"
+    },
+    {
+      "mod_version_id": "431f6501-fc75-418c-8e01-db3325630869",
+      "name": "ChooseTheAncient",
+      "version": "v1.4.0",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3779901482",
+      "hash": "ffd0a56d2dfee64cd43ec7f252adabe969aa45a49db6d5a82a41b04590fd8311",
+      "files": [
+        "3779901482\\ChooseTheAncient.dll",
+        "3779901482\\ChooseTheAncient.json",
+        "3779901482\\ChooseTheAncient.pck"
+      ],
+      "folder_name": "3779901482",
+      "mod_id": "ChooseTheAncient",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/ChooseTheAncient_v1.4.0_22229687.zip",
+      "bundle_sha256": "22229687af0c913faf7fa216fab494fbf6f097022e72b5272099d07305bbdea1"
+    },
+    {
+      "mod_version_id": "cd59f6cd-e868-42c3-affb-b35ae4f10ce6",
+      "name": "Ancients Awakened",
+      "version": "v1.4.9",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747492675",
+      "hash": "bc1d272155f611cdee66d5562f8f10d18ae53142188ce270a0500a3e4190f973",
+      "files": [
+        "3747492675\\AncientsAwakened.dll",
+        "3747492675\\AncientsAwakened.json",
+        "3747492675\\AncientsAwakened.pck"
+      ],
+      "folder_name": "3747492675",
+      "mod_id": "AncientsAwakened",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Ancients_Awakened_v1.4.9_50f341c2.zip",
+      "bundle_sha256": "50f341c29d6e8ecf80755239cc9c1f02a5016cac44d09ed147ca7061ee5f373b"
+    },
+    {
+      "mod_version_id": "6dc813ba-221e-4e15-a006-3de3d52439a5",
+      "name": "Hades Ancients",
+      "version": "v0.9.7",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747819202",
+      "hash": "fefcc04ac491a63736800dcb30925fd17cd984f04f0fac68d47c20110185096f",
+      "files": [
+        "3747819202\\HadesAncients\\beta\\HadesAncients.dll",
+        "3747819202\\HadesAncients\\beta\\HadesAncients.pck",
+        "3747819202\\HadesAncients\\HadesAncients.dll",
+        "3747819202\\HadesAncients\\HadesAncients.json",
+        "3747819202\\HadesAncients\\HadesAncients.pck",
+        "3747819202\\HadesAncients\\HadesAncientsBranchCompatibility\\HadesAncientsBranchCompatibility.dll",
+        "3747819202\\HadesAncients\\HadesAncientsBranchCompatibility\\HadesAncientsBranchCompatibility.json",
+        "3747819202\\HadesAncients\\HadesAncientsBranchCompatibility\\HadesAncientsBranchCompatibility.pck",
+        "3747819202\\HadesAncients\\loadVersions"
+      ],
+      "folder_name": "HadesAncients",
+      "mod_id": "HadesAncients",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Hades_Ancients_v0.9.7_00fabaa4.zip",
+      "bundle_sha256": "00fabaa49993018ae0ffc77294b922b0ebf047e62c046c08091b0bb5bea44621"
+    },
+    {
+      "mod_version_id": "0760a3c7-83c0-4b80-a586-1dc4cc6315b6",
+      "name": "Jimbo Ancient",
+      "version": "v1.1.3",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3784035988",
+      "hash": "4e2c76b9da57d02d5ffc66b2ff5cdb564b73f1cd0decb2b4406580b055034bbb",
+      "files": [
+        "3784035988\\JimboAncient.dll",
+        "3784035988\\JimboAncient.json",
+        "3784035988\\JimboAncient.pck",
+        "3784035988\\JimboAncient.pdb"
+      ],
+      "folder_name": "3784035988",
+      "mod_id": "JimboAncient",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Jimbo_Ancient_v1.1.3_d37434ac.zip",
+      "bundle_sha256": "d37434acd2f173eba6d3fc5e723f4e5098f5b9187fc50c2dccc42f9f8628cabb"
+    },
+    {
+      "mod_version_id": "6c567038-4eee-4991-ba41-fd9ea78337d2",
+      "name": "config",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "2cb5ba746bb0ffa01dfc07d84c8f8f14a9f71cca688e713e74a0253aa34020da",
+      "files": [
+        "3815705717\\config.json",
+        "3815705717\\mod_manifest.json",
+        "3815705717\\PixPin_2026-10-08_16-00-18.mp4",
+        "3815705717\\PixPin_2026-10-08_16-42-37.png",
+        "3815705717\\PixPin_2026-10-08_16-45-54.png",
+        "3815705717\\PixPin_2026-10-08_16-46-18.png",
+        "3815705717\\PixPin_2026-10-08_16-46-30.png",
+        "3815705717\\RareCardsSparkleandShine.dll",
+        "3815705717\\README.md",
+        "3815705717\\sparkle_debug.log",
+        "3815705717\\src\\CardPatches.cs",
+        "3815705717\\src\\CardSparkleManager.cs",
+        "3815705717\\src\\FoilShaderManager.cs",
+        "3815705717\\src\\MainMod.cs",
+        "3815705717\\src\\ModSettingsPanel.cs",
+        "3815705717\\src\\SparkleConfig.cs",
+        "3815705717\\src\\SparkleLogger.cs"
+      ],
+      "folder_name": "3815705717",
+      "enabled": true,
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/config_v0.0.0_382b6a26.zip",
+      "bundle_sha256": "382b6a263c564fb0716ef4fa2827563810ea0bc88978effde0e1b4fe6f8a1519"
     }
   ],
   "created_at": "2026-07-07T21:43:16.235938200Z",
-  "updated_at": "2026-11-26T04:31:11.226543200Z",
+  "updated_at": "2026-11-26T08:29:18.710494600Z",
   "public": true
 }
