@@ -5,57 +5,6 @@
   "created_by": "WesBosch",
   "mods": [
     {
-      "mod_version_id": "5685d7ca-97be-4974-9086-efe773ddf990",
-      "name": "BaseLib",
-      "version": "v3.4.8",
-      "source": "github:Alchyr/BaseLib-StS2",
-      "hash": "cee134554ce4f8ca7d75fcb77fbd28af7ab77f7c8e278e3d224cd106e38e7731",
-      "files": [
-        "BaseLib\\BaseLib.dll",
-        "BaseLib\\BaseLib.json",
-        "BaseLib\\BaseLib.pck",
-        "BaseLib\\BaseLibCompatibilityHelper.dll",
-        "BaseLib\\BaseLibCompatibilityHelper.json"
-      ],
-      "folder_name": "BaseLib",
-      "mod_id": "BaseLib",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.8_03de327a.zip",
-      "bundle_sha256": "03de327a883fce7b3307cd746f25b6bb29906114b5e34dcdb89fab5ae33e70c4"
-    },
-    {
-      "mod_version_id": "c7aba1fa-89a9-47f7-a571-63776132f5df",
-      "name": "BaseLib Compatibility Helper",
-      "version": "v0.0.0",
-      "source": null,
-      "hash": "aeaed51bfdf69b26a8e803218a16425bc65cfcfe5bb4c5d5c02b4e38157b389e",
-      "files": [
-        "BaseLibCompatibilityHelper\\BaseLibCompatibilityHelper.dll",
-        "BaseLibCompatibilityHelper\\BaseLibCompatibilityHelper.json"
-      ],
-      "folder_name": "BaseLibCompatibilityHelper",
-      "mod_id": "BaseLibCompatibilityHelper",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/BaseLib_Compatibility_Helper_v0.0.0_db354244.zip",
-      "bundle_sha256": "db354244a5d5f6875a07a3917cebaf0f9abe7a56c6ad94305762f305bc98b47d"
-    },
-    {
-      "mod_version_id": "d76dde59-2570-4910-825f-cb2cc442ca39",
-      "name": "Co-op Character Select+",
-      "version": "1.1.0",
-      "source": null,
-      "hash": "8887920080627d235c18f23d7f82e07a708dc45a8686e9e9e3d86a759d47ff2a",
-      "files": [
-        "3842560670\\MpBetterScreen\\MpBetterScreen.dll",
-        "3842560670\\MpBetterScreen\\MpBetterScreen.json"
-      ],
-      "folder_name": "MpBetterScreen",
-      "mod_id": "MpBetterScreen",
-      "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/Co-op_Character_Select__v1.1.0_7a8afa2a.zip",
-      "bundle_sha256": "7a8afa2af19e66edd2a980221e0ca684becec75321f6bdd64ea54b9ad5a3904d"
-    },
-    {
       "mod_version_id": "c89d1146-71cd-4de3-9f4b-c2fcad055c70",
       "name": "Multiplayer Limit Break",
       "version": "0.3.2",
@@ -89,11 +38,11 @@
       "bundle_sha256": "3966fd23813432cd907271accde25b335e4f2821308078bf85876ce2595365a9"
     },
     {
-      "mod_version_id": "7c34b8b1-9ca1-445a-9eb0-bff373aa7eda",
+      "mod_version_id": "044407ee-b387-4172-a481-77498817a519",
       "name": "RitsuLib",
-      "version": "0.6.15",
+      "version": "0.6.16",
       "source": "github:BAKAOLC/STS2-RitsuLib",
-      "hash": "96f0c122e2923220f7d15971208d89a7d83ec18326329e51145db669a24fd125",
+      "hash": "e7a2b79771e8056900265d5d0b807b1708cb4a0e2a1b3a666c13cffa87027d81",
       "files": [
         "STS2-RitsuLib\\assets.zip",
         "STS2-RitsuLib\\compat\\0.107.1\\compat-target.txt",
@@ -117,6 +66,13 @@
         "STS2-RitsuLib\\compat\\0.113.0\\STS2-RitsuLib.Runtime.pdb",
         "STS2-RitsuLib\\compat\\0.113.0\\STS2-RitsuLib.Runtime.xml",
         "STS2-RitsuLib\\compat\\0.113.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\compat\\0.114.0\\compat-target.txt",
+        "STS2-RitsuLib\\compat\\0.114.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\compat\\0.114.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\compat\\0.114.0\\STS2-RitsuLib.Runtime.dll",
+        "STS2-RitsuLib\\compat\\0.114.0\\STS2-RitsuLib.Runtime.pdb",
+        "STS2-RitsuLib\\compat\\0.114.0\\STS2-RitsuLib.Runtime.xml",
+        "STS2-RitsuLib\\compat\\0.114.0\\STS2-RitsuLib.xml",
         "STS2-RitsuLib\\mod_manifest.json",
         "STS2-RitsuLib\\ritsulib-variants.manifest",
         "STS2-RitsuLib\\RitsuLib.References.props",
@@ -137,11 +93,11 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.6.15_8819fd67.zip",
-      "bundle_sha256": "8819fd677fb40220b810053be2edd45489493a77e8ff32cf926eb04b17a63e57"
+      "bundle_url": "https://github.com/WesBosch/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.6.16_153bebdd.zip",
+      "bundle_sha256": "153bebdd3bc037ec9822ecc6769701583e1080fa95b24f93d1fe4d4d8bcd5f88"
     }
   ],
   "created_at": "2026-11-26T04:35:39.256357500Z",
-  "updated_at": "2026-11-26T04:48:17.066831700Z",
+  "updated_at": "2026-11-26T05:10:44.118879500Z",
   "public": true
 }
